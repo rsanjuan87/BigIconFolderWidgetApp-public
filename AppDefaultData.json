@@ -3098,6 +3098,36 @@
         "productivity"
       ]
     },
+    "com.apple.store.Jolly": {
+      "name": "Apple Store",
+      "iconSymbol": "apple.logo",
+      "iconColorHex": "#000000",
+      "urls": [
+        "apple-store://",
+        "https://apple.com/shop"
+      ],
+      "bundleId": "com.apple.store.Jolly",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/d0/4c/b2d04cab-0f1d-0bdd-fa9b-c4bfe09dfa83/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/apple-store/id375380948?uo=4",
+      "genres": [
+        "shopping",
+        "lifestyle"
+      ]
+    },
+    "com.apple.camera": {
+      "name": "Camera",
+      "iconSymbol": "camera.fill",
+      "iconColorHex": "#1C1C1E",
+      "urls": [
+        "camera://"
+      ],
+      "bundleId": "com.apple.camera",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/c8/c2/aec8c2c0-4676-db2d-4ed1-e7d0ce768a15/camera-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/camera/id1584216193?uo=4",
+      "genres": [
+        "photo-video"
+      ]
+    },
     "com.apple.AppStore": {
       "name": "App Store",
       "iconSymbol": "bag.fill",
@@ -4141,38 +4171,688 @@
         "business",
         "productivity"
       ]
+    },
+    "com.google.Gemini": {
+      "name": "Google Gemini",
+      "iconSymbol": "sparkles",
+      "iconColorHex": "#4285F4",
+      "urls": [
+        "gemini://",
+        "https://gemini.google.com"
+      ],
+      "bundleId": "com.google.Gemini",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/05/0f/44050f7a-498d-2e62-7410-383a1edaa2a2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/google-gemini/id6477489729?uo=4",
+      "genres": [
+        "productivity",
+        "utilities"
+      ]
+    },
+    "com.anthropic.claude": {
+      "name": "Claude by Anthropic",
+      "iconSymbol": "cpu",
+      "iconColorHex": "#CC785C",
+      "urls": [
+        "claude://",
+        "https://claude.ai"
+      ],
+      "bundleId": "com.anthropic.claude",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/57/b7/6357b736-20e1-f964-5ee0-3072c59a2bc8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/claude-by-anthropic/id6473753684?uo=4",
+      "genres": [
+        "productivity",
+        "business"
+      ]
+    },
+    "com.openai.chat": {
+      "name": "ChatGPT",
+      "iconSymbol": "bubble.left.fill",
+      "iconColorHex": "#10A37F",
+      "urls": [
+        "chatgpt://",
+        "https://chat.openai.com"
+      ],
+      "bundleId": "com.openai.chat",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/5e/89/7b5e89df-f936-1777-09ac-136994649e59/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/chatgpt/id6448311069?uo=4",
+      "genres": [
+        "productivity",
+        "utilities"
+      ]
+    },
+    "com.hoopcarpool.HooP": {
+      "name": "TRIBBU - Compartir coche",
+      "iconSymbol": "car.2.fill",
+      "iconColorHex": "#FF6B35",
+      "urls": [
+        "hoop://"
+      ],
+      "bundleId": "com.hoopcarpool.HooP",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/72/d0/7372d086-0dcc-33a6-51a1-e0f78b1fbc58/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/tribbu-compartir-coche/id1323765310?uo=4",
+      "genres": [
+        "travel",
+        "lifestyle"
+      ]
+    },
+    "com.yourcompany.GasAll": {
+      "name": "Gasall: Gasolineras España",
+      "iconSymbol": "fuelpump.fill",
+      "iconColorHex": "#FF9500",
+      "urls": [
+        "gasall://"
+      ],
+      "bundleId": "com.yourcompany.GasAll",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/01/ee/ec01eebd-369b-db18-f296-ddd485925963/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/gasall-gasolineras-espa%C3%B1a/id296739784?uo=4",
+      "genres": [
+        "navigation",
+        "utilities"
+      ]
+    },
+    "com.lemon.lvoverseas": {
+      "name": "CapCut - Editor de vídeo",
+      "iconSymbol": "scissors",
+      "iconColorHex": "#000000",
+      "urls": [
+        "capcut://",
+        "https://www.capcut.com"
+      ],
+      "bundleId": "com.lemon.lvoverseas",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/6e/75/9c6e75eb-5c0d-4df9-f619-00f420d49832/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/capcut-editor-de-v%C3%ADdeo/id1500855883?uo=4",
+      "genres": [
+        "photo-video"
+      ]
+    },
+    "es.fnmtrcm.ceres.certificadoDigitalFNMT": {
+      "name": "Certificado digital FNMT",
+      "iconSymbol": "lock.shield.fill",
+      "iconColorHex": "#003DA5",
+      "urls": [
+        "fnmt://"
+      ],
+      "bundleId": "es.fnmtrcm.ceres.certificadoDigitalFNMT",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/8c/ac/388cacc4-2a8b-8c39-12d5-f7c32dc479e5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/certificado-digital-fnmt/id6449721772?uo=4",
+      "genres": [
+        "productivity",
+        "utilities"
+      ]
+    },
+    "com.lidl.eci.lidl.plus": {
+      "name": "Lidl Plus",
+      "iconSymbol": "cart.fill",
+      "iconColorHex": "#0050AA",
+      "urls": [
+        "lidlplus://"
+      ],
+      "bundleId": "com.lidl.eci.lidl.plus",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/65/b5/1665b55c-fd27-c53a-c4e1-63aeeea7a2bb/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/lidl-plus/id1238611143?uo=4",
+      "genres": [
+        "developer-tools",
+        "lifestyle"
+      ]
+    },
+    "com.dgt.midgt": {
+      "name": "miDGT",
+      "iconSymbol": "car.fill",
+      "iconColorHex": "#003DA5",
+      "urls": [
+        "midgt://"
+      ],
+      "bundleId": "com.dgt.midgt",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/ee/d0/afeed0fc-31eb-d088-b0f7-fd40119b906a/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/midgt/id1463054197?uo=4",
+      "genres": [
+        "utilities"
+      ]
+    },
+    "es.gob.interior.policia.midni": {
+      "name": "MiDNI",
+      "iconSymbol": "creditcard.fill",
+      "iconColorHex": "#003DA5",
+      "urls": [
+        "midni://"
+      ],
+      "bundleId": "es.gob.interior.policia.midni",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/6f/a3/0e6fa3ef-4654-e67a-a990-535089a85e26/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/midni/id6477598076?uo=4",
+      "genres": [
+        "utilities"
+      ]
+    },
+    "ai.x.GrokApp": {
+      "name": "Grok - Asistente de IA",
+      "iconSymbol": "brain",
+      "iconColorHex": "#000000",
+      "urls": [
+        "grok://",
+        "https://grok.x.ai"
+      ],
+      "bundleId": "ai.x.GrokApp",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/9c/9c/0f9c9c9c-d0b0-f092-7d95-b8cd4b87d3f2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/grok-asistente-de-ia/id6670324846?uo=4",
+      "genres": [
+        "productivity",
+        "utilities"
+      ]
+    },
+    "es.aeat.pin24h": {
+      "name": "Cl@ve",
+      "iconSymbol": "key.fill",
+      "iconColorHex": "#003DA5",
+      "urls": [
+        "clave://"
+      ],
+      "bundleId": "es.aeat.pin24h",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/02/78/1602787d-705f-9e08-63c6-db23ab81fa21/ClaveAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/cl-ve/id842624380?uo=4",
+      "genres": [
+        "productivity",
+        "utilities"
+      ]
+    },
+    "com.storymatrix.drama": {
+      "name": "DramaBox - Series en Línea",
+      "iconSymbol": "film.fill",
+      "iconColorHex": "#FF2D55",
+      "urls": [
+        "dramabox://"
+      ],
+      "bundleId": "com.storymatrix.drama",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/58/bd/9758bd0a-e1dc-4134-4075-1f493772f33a/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/dramabox-series-en-l%C3%ADnea/id6445905219?uo=4",
+      "genres": [
+        "entertainment"
+      ]
+    },
+    "zzkko.com.ZZKKO": {
+      "name": "SHEIN - Compras Online",
+      "iconSymbol": "bag.fill",
+      "iconColorHex": "#FF748C",
+      "urls": [
+        "shein://",
+        "https://www.shein.com"
+      ],
+      "bundleId": "zzkko.com.ZZKKO",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/63/ba/5d63ba4d-dc7a-7a32-89df-7cc2ada0e4fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/shein-compras-online/id878577184?uo=4",
+      "genres": [
+        "developer-tools"
+      ]
+    },
+    "live.shorttv.ios": {
+      "name": "ShortMax - Dramas y Series",
+      "iconSymbol": "play.tv.fill",
+      "iconColorHex": "#FF3B30",
+      "urls": [
+        "shortmax://"
+      ],
+      "bundleId": "live.shorttv.ios",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/0e/ca/6b0eca6a-22da-92d3-729a-6bbe0bd0ca4d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/shortmax-dramas-y-series/id6464002625?uo=4",
+      "genres": [
+        "entertainment"
+      ]
+    },
+    "es.aeat.dgc.mobile": {
+      "name": "AEAT",
+      "iconSymbol": "building.columns.fill",
+      "iconColorHex": "#003DA5",
+      "urls": [
+        "aeat://"
+      ],
+      "bundleId": "es.aeat.dgc.mobile",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/9e/32/7c9e3217-9466-d49c-342f-ce37ac4d6dce/AEATAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/aeat/id737744527?uo=4",
+      "genres": [
+        "productivity",
+        "lifestyle"
+      ]
+    },
+    "gov.es.segsocial.importass.ios": {
+      "name": "Importass Seguridad Social",
+      "iconSymbol": "person.badge.shield.checkmark.fill",
+      "iconColorHex": "#003DA5",
+      "urls": [
+        "importass://"
+      ],
+      "bundleId": "gov.es.segsocial.importass.ios",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/40/4a/ca404a63-d585-48cc-c688-2b57a83b7b16/AppIcon-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/importass-seguridad-social/id6502392871?uo=4",
+      "genres": [
+        "productivity"
+      ]
+    },
+    "es.gob.carpeta": {
+      "name": "Mi carpeta Ciudadana",
+      "iconSymbol": "folder.fill",
+      "iconColorHex": "#003DA5",
+      "urls": [
+        "micarpeta://"
+      ],
+      "bundleId": "es.gob.carpeta",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/d8/b0/0fd8b0f5-7afd-df34-7e57-ff73eb17de83/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/mi-carpeta-ciudadana/id1555943725?uo=4",
+      "genres": [
+        "productivity",
+        "utilities"
+      ]
+    },
+    "com.lineadirecta.LineaDirectaEnRuta": {
+      "name": "Línea Directa",
+      "iconSymbol": "shield.fill",
+      "iconColorHex": "#FF3B30",
+      "urls": [
+        "lineadirecta://"
+      ],
+      "bundleId": "com.lineadirecta.LineaDirectaEnRuta",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/3a/51/ab3a51dd-40c1-8dc7-d19a-9c26ee7169c9/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/l%C3%ADnea-directa/id444703674?uo=4",
+      "genres": [
+        "finance",
+        "travel"
+      ]
+    },
+    "eu.iryo.app.b2c": {
+      "name": "Iryo",
+      "iconSymbol": "tram.fill",
+      "iconColorHex": "#C8102E",
+      "urls": [
+        "iryo://"
+      ],
+      "bundleId": "eu.iryo.app.b2c",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/73/d6/8f73d6f2-6964-09b3-9c05-69aa7d9cce3f/AppIcon-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/iryo/id6444018990?uo=4",
+      "genres": [
+        "travel"
+      ]
+    },
+    "com.renfeviajeros.ticket": {
+      "name": "Renfe",
+      "iconSymbol": "train.side.front.car",
+      "iconColorHex": "#8B0000",
+      "urls": [
+        "renfe://"
+      ],
+      "bundleId": "com.renfeviajeros.ticket",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/be/7d/7ebe7d2b-89f6-0c01-15b6-3d6d9f2d92f0/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/renfe/id1544224672?uo=4",
+      "genres": [
+        "travel"
+      ]
+    },
+    "com.goeuro.ios.ronald": {
+      "name": "Omio: Reserva tren, bus, vuelo",
+      "iconSymbol": "mappin.and.ellipse",
+      "iconColorHex": "#1976D2",
+      "urls": [
+        "omio://",
+        "https://www.omio.com"
+      ],
+      "bundleId": "com.goeuro.ios.ronald",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/95/f0/4c95f071-bd5f-614d-b811-b7c275f407a2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/omio-reserva-tren-bus-vuelo/id885372509?uo=4",
+      "genres": [
+        "travel",
+        "navigation"
+      ]
+    },
+    "es.ctmam.movil": {
+      "name": "Consorcio Málaga",
+      "iconSymbol": "bus.fill",
+      "iconColorHex": "#0071BC",
+      "urls": [
+        "ctmam://"
+      ],
+      "bundleId": "es.ctmam.movil",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/94/22/9a942271-f793-66ea-003f-3f0714a2d3b3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/consorcio-m%C3%A1laga/id992881341?uo=4",
+      "genres": [
+        "travel"
+      ]
+    },
+    "com.metromalaga": {
+      "name": "Metro de Málaga Oficial",
+      "iconSymbol": "tram.fill",
+      "iconColorHex": "#E30613",
+      "urls": [
+        "metromalaga://"
+      ],
+      "bundleId": "com.metromalaga",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/79/6a/3b796a09-524c-c9fe-ae3b-cdfa89bf992c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/metro-de-m%C3%A1laga-oficial/id1016412900?uo=4",
+      "genres": [
+        "travel",
+        "navigation"
+      ]
+    },
+    "com.sncf.ouigo.espana": {
+      "name": "OUIGO España",
+      "iconSymbol": "train.side.front.car",
+      "iconColorHex": "#E4007F",
+      "urls": [
+        "ouigo://"
+      ],
+      "bundleId": "com.sncf.ouigo.espana",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/01/d4/4401d4a3-3a33-cc73-3812-bcea35989448/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/ouigo-espa%C3%B1a/id1540252023?uo=4",
+      "genres": [
+        "travel"
+      ]
+    },
+    "com.aireuropa.mobile": {
+      "name": "AirEuropa",
+      "iconSymbol": "airplane",
+      "iconColorHex": "#003DA5",
+      "urls": [
+        "aireuropa://"
+      ],
+      "bundleId": "com.aireuropa.mobile",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/dd/55/27dd555c-8c1d-81cc-5ef7-0460202d9186/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/aireuropa/id813720883?uo=4",
+      "genres": [
+        "travel"
+      ]
+    },
+    "com.anydesk.AnyDesk": {
+      "name": "Escritorio remoto AnyDesk",
+      "iconSymbol": "desktopcomputer",
+      "iconColorHex": "#EF3131",
+      "urls": [
+        "anydesk://"
+      ],
+      "bundleId": "com.anydesk.AnyDesk",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/e2/80/b8e280fd-3e47-5d52-1b78-fa7fdff9ef06/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/escritorio-remoto-anydesk/id1176131273?uo=4",
+      "genres": [
+        "utilities",
+        "productivity"
+      ]
+    },
+    "com.tenda.TendaRouter": {
+      "name": "Tenda WiFi",
+      "iconSymbol": "wifi.router.fill",
+      "iconColorHex": "#1A73E8",
+      "urls": [
+        "tendawifi://"
+      ],
+      "bundleId": "com.tenda.TendaRouter",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/0b/c5/5a0bc5ef-3092-2650-8ce0-f3154e978df2/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/tenda-wifi/id931811111?uo=4",
+      "genres": [
+        "utilities"
+      ]
+    },
+    "es.carrefour.crfmobile": {
+      "name": "Mi Carrefour",
+      "iconSymbol": "cart.fill",
+      "iconColorHex": "#004A97",
+      "urls": [
+        "carrefoures://"
+      ],
+      "bundleId": "es.carrefour.crfmobile",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/20/31/a020318e-221c-6d07-471e-67808f6e6f41/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/mi-carrefour/id605788142?uo=4",
+      "genres": [
+        "developer-tools"
+      ]
+    },
+    "es.mercadona.tienda": {
+      "name": "Mercadona",
+      "iconSymbol": "basket.fill",
+      "iconColorHex": "#009900",
+      "urls": [
+        "mercadona://"
+      ],
+      "bundleId": "es.mercadona.tienda",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/cf/e7/16cfe7a6-c3d3-c747-aae5-8ce5e4665e9b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/mercadona/id1368037685?uo=4",
+      "genres": [
+        "developer-tools",
+        "food-drink"
+      ]
+    },
+    "es.aldi.aldinordmobileapp": {
+      "name": "ALDI Supermercados",
+      "iconSymbol": "cart.fill",
+      "iconColorHex": "#00529B",
+      "urls": [
+        "aldi://"
+      ],
+      "bundleId": "es.aldi.aldinordmobileapp",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/c1/e9/00c1e93e-2847-ff86-4daf-c9d1e116bf0f/AppIcon-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/aldi-supermercados/id669956906?uo=4",
+      "genres": [
+        "developer-tools",
+        "lifestyle"
+      ]
+    },
+    "com.bp.app.bpme.global.es": {
+      "name": "miBP ofertas y puntos gasolina",
+      "iconSymbol": "fuelpump.fill",
+      "iconColorHex": "#009900",
+      "urls": [
+        "bpme://"
+      ],
+      "bundleId": "com.bp.app.bpme.global.es",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/64/21/2f64213c-1513-64e8-ec85-1d6223a7b5f5/AppIcon-Spain-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/mibp-ofertas-y-puntos-gasolina/id6449548027?uo=4",
+      "genres": [
+        "lifestyle",
+        "utilities"
+      ]
+    },
+    "com.repsol.copiloto": {
+      "name": "Waylet. Pagos con el móvil",
+      "iconSymbol": "fuelpump.fill",
+      "iconColorHex": "#FF6B00",
+      "urls": [
+        "waylet://"
+      ],
+      "bundleId": "com.repsol.copiloto",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/fb/7d/88fb7da1-ae44-86db-0af6-12d70070ca30/AppIconRepsol-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/waylet-pagos-con-el-m%C3%B3vil/id494847823?uo=4",
+      "genres": [
+        "finance",
+        "navigation"
+      ]
+    },
+    "com.melia.meliaapp": {
+      "name": "Meliá: Reserva hotel y resorts",
+      "iconSymbol": "building.2.fill",
+      "iconColorHex": "#1A1A2E",
+      "urls": [
+        "melia://",
+        "https://www.melia.com"
+      ],
+      "bundleId": "com.melia.meliaapp",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/36/0a/20360aee-0367-b822-7891-d4acf27e2f55/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/meli%C3%A1-reserva-hotel-y-resorts/id1151855213?uo=4",
+      "genres": [
+        "travel"
+      ]
+    },
+    "com.microsoft.skype.teams": {
+      "name": "Microsoft Teams",
+      "iconSymbol": "video.bubble.fill",
+      "iconColorHex": "#464EB8",
+      "urls": [
+        "msteams://",
+        "https://teams.microsoft.com"
+      ],
+      "bundleId": "com.microsoft.skype.teams",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/b7/17/4fb717df-6edb-1018-b6d3-4699d35c1a8d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/microsoft-teams/id1113153706?uo=4",
+      "genres": [
+        "business",
+        "productivity"
+      ]
+    },
+    "com.colectivosvip.clubahorrovip": {
+      "name": "Vip District",
+      "iconSymbol": "star.fill",
+      "iconColorHex": "#FF2D55",
+      "urls": [
+        "vipdistrict://"
+      ],
+      "bundleId": "com.colectivosvip.clubahorrovip",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/51/0f/d4510f35-4026-872d-9a8d-524ca9d310c3/Club_Ahorro_Vip-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/vip-district/id1016827797?uo=4",
+      "genres": [
+        "lifestyle",
+        "developer-tools"
+      ]
+    },
+    "com.revolut.revolutx": {
+      "name": "Revolut X: Bitcoin y Crypto",
+      "iconSymbol": "bitcoinsign.circle.fill",
+      "iconColorHex": "#F7931A",
+      "urls": [
+        "revolutx://"
+      ],
+      "bundleId": "com.revolut.revolutx",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/0a/62/2c0a6299-fcbc-0dd9-1772-83027bde90d3/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.jpeg/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/revolut-x-bitcoin-y-crypto/id6502614478?uo=4",
+      "genres": [
+        "finance"
+      ]
+    },
+    "es.mobile.dia": {
+      "name": "Dia Supermercado online y Club",
+      "iconSymbol": "cart.fill",
+      "iconColorHex": "#D40000",
+      "urls": [
+        "diasupermercados://"
+      ],
+      "bundleId": "es.mobile.dia",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/77/49/e8774936-c9c6-439e-5f0d-4d4f60dfb9d8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/dia-supermercado-online-y-club/id660175630?uo=4",
+      "genres": [
+        "food-drink",
+        "developer-tools"
+      ]
+    },
+    "com.twofas.org": {
+      "name": "2FA Authenticator (2FAS)",
+      "iconSymbol": "lock.shield.fill",
+      "iconColorHex": "#E74C3C",
+      "urls": [
+        "twofas://"
+      ],
+      "bundleId": "com.twofas.org",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/20/55/6120550e-0d0e-16e4-c3e5-1d31456e6d47/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/2fa-authenticator-2fas/id1217793794?uo=4",
+      "genres": [
+        "productivity",
+        "business"
+      ]
+    },
+    "com.8bit.bitwarden": {
+      "name": "Bitwarden - Gestor de contrase",
+      "iconSymbol": "lock.shield.fill",
+      "iconColorHex": "#175DDC",
+      "urls": [
+        "bitwarden://"
+      ],
+      "bundleId": "com.8bit.bitwarden",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/ba/5b/0aba5b6a-8a6c-1526-80ec-975c8199ef86/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/bitwarden-gestor-de-contrase/id1137397744?uo=4",
+      "genres": [
+        "productivity",
+        "utilities"
+      ]
+    },
+    "com.einnovation.temu": {
+      "name": "Temu: Compra como millonario",
+      "iconSymbol": "shippingbox.fill",
+      "iconColorHex": "#FF6900",
+      "urls": [
+        "temu://",
+        "https://www.temu.com"
+      ],
+      "bundleId": "com.einnovation.temu",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/86/ea/ef86ea16-f168-6d81-6cfd-665742be0b88/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/temu-compra-como-millonario/id1641486558?uo=4",
+      "genres": [
+        "developer-tools"
+      ]
+    },
+    "com.apple.mobiletimer": {
+      "name": "Clock",
+      "iconSymbol": "clock.fill",
+      "iconColorHex": "#FF9500",
+      "urls": [
+        "clock://"
+      ],
+      "bundleId": "com.apple.mobiletimer",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/f8/90/4cf89006-bf3a-4757-0061-cdc8d79373f6/clock-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/clock/id1584215688?uo=4",
+      "genres": [
+        "utilities"
+      ]
+    },
+    "com.Babel.Asisa": {
+      "name": "ASISA",
+      "iconSymbol": "cross.fill",
+      "iconColorHex": "#0072BC",
+      "urls": [
+        "asisa://"
+      ],
+      "bundleId": "com.Babel.Asisa",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/97/0f/af970f18-5623-82f7-73ab-11185b33e7a4/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/asisa/id444680982?uo=4",
+      "genres": [
+        "health-fitness"
+      ]
+    },
+    "app.alextran.immich": {
+      "name": "Immich",
+      "iconSymbol": "photo.stack.fill",
+      "iconColorHex": "#4CAF50",
+      "urls": [
+        "immich://"
+      ],
+      "bundleId": "app.alextran.immich",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/d0/2b/55d02be8-f0b3-9ff9-98e5-773300ba9311/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/immich/id1613945652?uo=4",
+      "genres": [
+        "photo-video",
+        "utilities"
+      ]
     }
   },
   "defaultFolders": [
     {
       "name": "Popular Apps",
       "apps": [
-        "com.atebits.Tweetie2",
-        "com.burbn.instagram",
         "net.whatsapp.WhatsApp",
-        "ph.telegra.Telegraph",
-        "com.hammerandchisel.discord",
-        "com.spotify.client",
-        "notion.id",
-        "com.tinyspeck.chatlyio",
-        "com.zhiliaoapp.musically",
         "com.google.ios.youtube",
+        "com.burbn.instagram",
+        "com.zhiliaoapp.musically",
+        "com.facebook.Facebook",
+        "ph.telegra.Telegraph",
+        "com.spotify.client",
         "com.netflix.Netflix",
-        "com.facebook.Facebook"
+        "com.google.Gmail",
+        "com.google.Maps",
+        "com.atebits.Tweetie2",
+        "com.burbn.barcelona"
       ],
       "backgroundColorHex": "#E8E0FF"
     },
     {
       "name": "Social",
       "apps": [
-        "com.atebits.Tweetie2",
-        "com.burbn.instagram",
         "net.whatsapp.WhatsApp",
         "ph.telegra.Telegraph",
+        "com.burbn.instagram",
         "com.facebook.Facebook",
+        "com.atebits.Tweetie2",
         "com.zhiliaoapp.musically",
-        "com.burbn.barcelona",
-        "xyz.blueskyweb.app"
+        "com.burbn.barcelona"
       ],
       "backgroundColorHex": "#FFE0E0"
     },
