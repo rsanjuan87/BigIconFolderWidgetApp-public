@@ -1,0 +1,4216 @@
+{
+  "apps": {
+    "com.atebits.Tweetie2": {
+      "name": "Twitter / X",
+      "iconSymbol": "bird",
+      "iconColorHex": "#000000",
+      "urls": [
+        "twitter://",
+        "https://x.com"
+      ],
+      "bundleId": "com.atebits.Tweetie2",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/d5/45/fed5459d-494e-4837-6bfb-413875fe79e0/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/x/id333903271?uo=4",
+      "genres": [
+        "news",
+        "social-networking"
+      ]
+    },
+    "com.burbn.instagram": {
+      "name": "Instagram",
+      "iconSymbol": "camera.fill",
+      "iconColorHex": "#E1306C",
+      "urls": [
+        "instagram://",
+        "https://www.instagram.com"
+      ],
+      "bundleId": "com.burbn.instagram",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0e/9d/f10e9d3f-f0f1-ed93-5b07-ea71bcfb95a3/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/instagram/id389801252?uo=4",
+      "genres": [
+        "photo-video",
+        "social-networking"
+      ]
+    },
+    "net.whatsapp.WhatsApp": {
+      "name": "WhatsApp",
+      "iconSymbol": "message.fill",
+      "iconColorHex": "#25D366",
+      "urls": [
+        "whatsapp://",
+        "https://wa.me"
+      ],
+      "bundleId": "net.whatsapp.WhatsApp",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/b2/8a/e3b28a99-2fc5-641f-7b35-0a8094337b1a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/whatsapp-messenger/id310633997?uo=4",
+      "genres": [
+        "social-networking",
+        "utilities"
+      ]
+    },
+    "ph.telegra.Telegraph": {
+      "name": "Telegram",
+      "iconSymbol": "paperplane.fill",
+      "iconColorHex": "#2CA5E0",
+      "urls": [
+        "tg://",
+        "https://t.me"
+      ],
+      "bundleId": "ph.telegra.Telegraph",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/4f/f1/114ff141-5fc5-24f4-c548-afc42d4d8283/Telegram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/telegram-messenger/id686449807?uo=4",
+      "genres": [
+        "social-networking",
+        "productivity"
+      ]
+    },
+    "com.facebook.Facebook": {
+      "name": "Facebook",
+      "iconSymbol": "person.2.fill",
+      "iconColorHex": "#1877F2",
+      "urls": [
+        "fb://",
+        "https://www.facebook.com"
+      ],
+      "bundleId": "com.facebook.Facebook",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/38/f6/2e38f637-d73e-7125-2534-06e9ede567b6/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/facebook/id284882215?uo=4",
+      "genres": [
+        "social-networking"
+      ]
+    },
+    "com.zhiliaoapp.musically": {
+      "name": "TikTok",
+      "iconSymbol": "music.note",
+      "iconColorHex": "#000000",
+      "urls": [
+        "snssdk1233://",
+        "douyin://",
+        "https://www.tiktok.com"
+      ],
+      "bundleId": "com.zhiliaoapp.musically",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/ab/60/54ab609e-017b-5ad4-2d0b-3f866fcca926/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/tiktok-mucho-m%C3%A1s-que-videos/id835599320?uo=4",
+      "genres": [
+        "entertainment",
+        "photo-video"
+      ]
+    },
+    "pinterest://": {
+      "name": "Pinterest",
+      "iconSymbol": "pin.fill",
+      "iconColorHex": "#E60023",
+      "urls": [
+        "pinterest://",
+        "https://www.pinterest.com"
+      ],
+      "bundleId": "pinterest",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/a5/d6/43a5d6ef-f21d-50df-519f-2dc707acadf1/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/pinterest/id429047995?uo=4",
+      "genres": [
+        "lifestyle",
+        "photo-video"
+      ]
+    },
+    "com.reddit.Reddit": {
+      "name": "Reddit",
+      "iconSymbol": "bubble.left.fill",
+      "iconColorHex": "#FF4500",
+      "urls": [
+        "reddit://",
+        "https://www.reddit.com"
+      ],
+      "bundleId": "com.reddit.Reddit",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/d4/af/f0d4afb9-794b-b5ae-4fee-dbac8f3aafe4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/reddit/id1064216828?uo=4",
+      "genres": [
+        "news",
+        "social-networking"
+      ]
+    },
+    "com.linkedin.LinkedIn": {
+      "name": "LinkedIn",
+      "iconSymbol": "briefcase.fill",
+      "iconColorHex": "#0A66C2",
+      "urls": [
+        "linkedin://",
+        "https://www.linkedin.com"
+      ],
+      "bundleId": "com.linkedin.LinkedIn",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/c0/51/d3c051a0-a244-ce4f-7ab1-50c8f327748d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/linkedin-red-profesional/id288429040?uo=4",
+      "genres": [
+        "business"
+      ]
+    },
+    "com.toyopagroup.picaboo": {
+      "name": "Snapchat",
+      "iconSymbol": "camera.aperture",
+      "iconColorHex": "#FFFC00",
+      "urls": [
+        "snapchat://",
+        "https://www.snapchat.com"
+      ],
+      "bundleId": "com.toyopagroup.picaboo",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/06/90/5f0690d1-64ae-7c67-8213-a99ce2f9a58c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/snapchat-chatea-con-amigxs/id447188370?uo=4",
+      "genres": [
+        "photo-video",
+        "social-networking"
+      ]
+    },
+    "com.burbn.barcelona": {
+      "name": "Threads",
+      "iconSymbol": "bubble.left.and.bubble.right",
+      "iconColorHex": "#000000",
+      "urls": [
+        "threads://",
+        "https://www.threads.net"
+      ],
+      "bundleId": "com.burbn.barcelona",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/75/54/af7554a0-f3ac-d1b8-a0d7-6f9f791f64fc/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/threads/id6446901002?uo=4",
+      "genres": [
+        "social-networking",
+        "entertainment"
+      ]
+    },
+    "xyz.blueskyweb.app": {
+      "name": "Bluesky",
+      "iconSymbol": "star.fill",
+      "iconColorHex": "#1185FE",
+      "urls": [
+        "bluesky://",
+        "https://bsky.app"
+      ],
+      "bundleId": "xyz.blueskyweb.app",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/87/95/54879528-1629-7732-0a1d-ce7d1ed455fb/ios_icon_default-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/bluesky-social/id6444370199?uo=4",
+      "genres": [
+        "social-networking",
+        "entertainment"
+      ]
+    },
+    "org.joinmastodon.app": {
+      "name": "Mastodon",
+      "iconSymbol": "person.bubble.fill",
+      "iconColorHex": "#6364FF",
+      "urls": [
+        "mastodon://",
+        "https://apps.apple.com/es/app/mastodon/id1571998974?uo=4"
+      ],
+      "bundleId": "org.joinmastodon.app",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/68/bf/7068bf6e-8e83-b2c3-3933-90648c790acf/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/mastodon/id1571998974?uo=4",
+      "genres": [
+        "social-networking",
+        "news"
+      ]
+    },
+    "AlexisBarreyat.BeReal": {
+      "name": "BeReal",
+      "iconSymbol": "circle.grid.2x2.fill",
+      "iconColorHex": "#000000",
+      "urls": [
+        "bereal://",
+        "https://apps.apple.com/es/app/bereal-real-como-tus-amigos/id1459645446?uo=4"
+      ],
+      "bundleId": "AlexisBarreyat.BeReal",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/bb/cd/5ebbcd3b-daea-7361-45cd-2d0a37950f7b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/bereal-real-como-tus-amigos/id1459645446?uo=4",
+      "genres": [
+        "social-networking",
+        "photo-video"
+      ]
+    },
+    "com.nextdoor.nextdoor": {
+      "name": "Nextdoor",
+      "iconSymbol": "building.2.fill",
+      "iconColorHex": "#47C95A",
+      "urls": [
+        "nextdoor://",
+        "https://nextdoor.com"
+      ],
+      "bundleId": "com.nextdoor.nextdoor",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/0d/b6/260db630-c2e7-3b6c-58c6-0bb4c1ff3c31/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/nextdoor-red-del-barrio/id640360962?uo=4",
+      "genres": [
+        "news",
+        "social-networking"
+      ]
+    },
+    "org.whispersystems.signal": {
+      "name": "Signal",
+      "iconSymbol": "lock.shield.fill",
+      "iconColorHex": "#3A76F0",
+      "urls": [
+        "sgnl://",
+        "https://apps.apple.com/es/app/signal-mensajer%C3%ADa-privada/id874139669?uo=4"
+      ],
+      "bundleId": "org.whispersystems.signal",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/9e/57/c79e579d-00ee-3da9-4607-b71f44c31c8b/AppIcon-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/signal-mensajer%C3%ADa-privada/id874139669?uo=4",
+      "genres": [
+        "social-networking",
+        "utilities"
+      ]
+    },
+    "com.hammerandchisel.discord": {
+      "name": "Discord",
+      "iconSymbol": "headphones",
+      "iconColorHex": "#5865F2",
+      "urls": [
+        "discord://",
+        "https://discord.com"
+      ],
+      "bundleId": "com.hammerandchisel.discord",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/94/a9/fa94a9e9-b5d7-4dd9-8192-8e30ee87e9ba/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/discord-juega-y-pasa-el-rato/id985746746?uo=4",
+      "genres": [
+        "social-networking",
+        "games"
+      ]
+    },
+    "com.apple.MobileSMS": {
+      "name": "iMessage",
+      "iconSymbol": "message.fill",
+      "iconColorHex": "#34C759",
+      "urls": [
+        "sms://",
+        "https://apps.apple.com/es/app/mensajes/id1146560473?uo=4"
+      ],
+      "bundleId": "com.apple.MobileSMS",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/08/07/0e080793-1b66-d9b3-0bbe-8222669abf79/messages-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/mensajes/id1146560473?uo=4",
+      "genres": [
+        "social-networking"
+      ]
+    },
+    "com.viber": {
+      "name": "Viber",
+      "iconSymbol": "phone.fill",
+      "iconColorHex": "#7C3AED",
+      "urls": [
+        "viber://",
+        "https://apps.apple.com/es/app/rakuten-viber-messenger/id382617920?uo=4"
+      ],
+      "bundleId": "com.viber",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/e5/62/1fe56218-a828-2385-4ae0-e2b426f20498/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/rakuten-viber-messenger/id382617920?uo=4",
+      "genres": [
+        "social-networking",
+        "lifestyle"
+      ]
+    },
+    "com.tencent.xin": {
+      "name": "WeChat",
+      "iconSymbol": "bubble.left",
+      "iconColorHex": "#09B83E",
+      "urls": [
+        "wechat://",
+        "https://www.wechat.com"
+      ],
+      "bundleId": "com.tencent.xin",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/dc/81/2fdc81e4-4c1d-1706-ce9d-ee4932e4dd97/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/wechat/id414478124?uo=4",
+      "genres": [
+        "social-networking",
+        "productivity"
+      ]
+    },
+    "jp.naver.line": {
+      "name": "Line",
+      "iconSymbol": "bubble.left.and.bubble.right.fill",
+      "iconColorHex": "#00B900",
+      "urls": [
+        "line://",
+        "naver-line://",
+        "https://apps.apple.com/es/app/line/id443904275?uo=4"
+      ],
+      "bundleId": "jp.naver.line",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/fd/59/95fd59bd-d21f-290c-b6d3-27c4fe895173/basic_default-0-0-1x_U007epad-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/line/id443904275?uo=4",
+      "genres": [
+        "social-networking"
+      ]
+    },
+    "com.tinyspeck.chatlyio": {
+      "name": "Slack",
+      "iconSymbol": "bubble.left.and.bubble.right.fill",
+      "iconColorHex": "#4A154B",
+      "urls": [
+        "slack://",
+        "https://slack.com"
+      ],
+      "bundleId": "com.tinyspeck.chatlyio",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/da/78/50da785e-97e8-6920-1fb6-3d241f39a68a/slack_icon_prod-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/slack/id618783545?uo=4",
+      "genres": [
+        "business",
+        "productivity"
+      ]
+    },
+    "notion.id": {
+      "name": "Notion",
+      "iconSymbol": "doc.text.fill",
+      "iconColorHex": "#000000",
+      "urls": [
+        "notion://",
+        "https://www.notion.so"
+      ],
+      "bundleId": "notion.id",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/12/68/e3126820-40d1-c8ad-53f0-164bcddce8cd/AppIconProd-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/notion-notas-tareas-e-ia/id1232780281?uo=4",
+      "genres": [
+        "productivity",
+        "business"
+      ]
+    },
+    "md.obsidian": {
+      "name": "Obsidian",
+      "iconSymbol": "diamond.fill",
+      "iconColorHex": "#7C3AED",
+      "urls": [
+        "obsidian://",
+        "https://apps.apple.com/es/app/obsidian-connected-notes/id1557175442?uo=4"
+      ],
+      "bundleId": "md.obsidian",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/cf/a0/c6cfa074-d701-4b37-c9c5-f5f989759291/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/obsidian-connected-notes/id1557175442?uo=4",
+      "genres": [
+        "productivity",
+        "reference"
+      ]
+    },
+    "com.todoist.ios": {
+      "name": "Todoist",
+      "iconSymbol": "checkmark.circle.fill",
+      "iconColorHex": "#DB4035",
+      "urls": [
+        "todoist://",
+        "https://todoist.com"
+      ],
+      "bundleId": "com.todoist.ios",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/38/7c/dd387ce8-5c96-a19b-5ed3-8686cda17941/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/todoist-to-do-list-calendario/id572688855?uo=4",
+      "genres": [
+        "productivity",
+        "business"
+      ]
+    },
+    "com.culturedcode.ThingsiPhone": {
+      "name": "Things 3",
+      "iconSymbol": "square.and.pencil",
+      "iconColorHex": "#2176FF",
+      "urls": [
+        "things://",
+        "https://apps.apple.com/es/app/things-3/id904237743?uo=4"
+      ],
+      "bundleId": "com.culturedcode.ThingsiPhone",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/53/89/0c5389bf-ad78-4453-01b0-7db861eb2a48/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/things-3/id904237743?uo=4",
+      "genres": [
+        "productivity",
+        "business"
+      ]
+    },
+    "com.aplicacionesyrecursos.u4bear": {
+      "name": "Bear",
+      "iconSymbol": "note.text",
+      "iconColorHex": "#F7622A",
+      "urls": [
+        "bear://",
+        "https://apps.apple.com/es/app/u4bear-gay-osos-cerca-de-ti/id411134419?uo=4"
+      ],
+      "bundleId": "com.aplicacionesyrecursos.u4bear",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/4b/be/df4bbe30-e149-a718-c40c-f60e1f80080b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/u4bear-gay-osos-cerca-de-ti/id411134419?uo=4",
+      "genres": [
+        "social-networking",
+        "travel"
+      ]
+    },
+    "com.lukilabs.lukiapp": {
+      "name": "Craft",
+      "iconSymbol": "doc.richtext.fill",
+      "iconColorHex": "#0A84FF",
+      "urls": [
+        "craftdocs://",
+        "https://apps.apple.com/es/app/craft-editor-de-docs-y-notas/id1487937127?uo=4"
+      ],
+      "bundleId": "com.lukilabs.lukiapp",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/40/19/514019de-d209-6d47-9a80-3b76c066b037/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/craft-editor-de-docs-y-notas/id1487937127?uo=4",
+      "genres": [
+        "productivity",
+        "business"
+      ]
+    },
+    "com.flexibits.fantastical2.iphone": {
+      "name": "Fantastical",
+      "iconSymbol": "calendar",
+      "iconColorHex": "#F05138",
+      "urls": [
+        "fantastical2://",
+        "https://flexibits.com/fantastical"
+      ],
+      "bundleId": "com.flexibits.fantastical2.iphone",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/91/e0/6791e09b-2397-b132-7606-520cb6141f3e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/fantastical-calendar/id718043190?uo=4",
+      "genres": [
+        "productivity",
+        "business"
+      ]
+    },
+    "com.goodnotesapp.x": {
+      "name": "GoodNotes",
+      "iconSymbol": "hand.draw.fill",
+      "iconColorHex": "#FFA500",
+      "urls": [
+        "goodnotes5://",
+        "https://apps.apple.com/es/app/goodnotes-notas-de-ia-pdf/id1444383602?uo=4"
+      ],
+      "bundleId": "com.goodnotesapp.x",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/5b/41/2e5b41ab-c5bf-6fbd-c871-76ff7696e85e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/goodnotes-notas-de-ia-pdf/id1444383602?uo=4",
+      "genres": [
+        "productivity",
+        "education"
+      ]
+    },
+    "com.evernote.iPhone.Evernote": {
+      "name": "Evernote",
+      "iconSymbol": "doc.text",
+      "iconColorHex": "#2DBE60",
+      "urls": [
+        "evernote://",
+        "https://evernote.com"
+      ],
+      "bundleId": "com.evernote.iPhone.Evernote",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/1b/20/8e1b2061-4ec9-a790-a6d5-198c3c197d7a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/evernote-notes-organizer/id281796108?uo=4",
+      "genres": [
+        "productivity",
+        "utilities"
+      ]
+    },
+    "com.microsoft.onenote": {
+      "name": "OneNote",
+      "iconSymbol": "note",
+      "iconColorHex": "#7FBA00",
+      "urls": [
+        "onenote://",
+        "https://www.onenote.com"
+      ],
+      "bundleId": "com.microsoft.onenote",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/39/ef/f139ef4f-ab4e-18af-066e-4c3dc58276bc/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/microsoft-onenote/id410395246?uo=4",
+      "genres": [
+        "productivity",
+        "education"
+      ]
+    },
+    "com.google.Docs": {
+      "name": "Google Docs",
+      "iconSymbol": "doc.text",
+      "iconColorHex": "#3B81F6",
+      "urls": [
+        "googledocs://",
+        "gdoc://",
+        "https://apps.apple.com/es/app/documentos-de-google/id842842640?uo=4"
+      ],
+      "bundleId": "com.google.Docs",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/d9/2b/46d92b6a-ae2a-8d7c-bfc6-984edeb2f25a/docs_2020q4-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/documentos-de-google/id842842640?uo=4",
+      "genres": [
+        "productivity",
+        "business"
+      ]
+    },
+    "com.google.Sheets": {
+      "name": "Google Sheets",
+      "iconSymbol": "tablecells",
+      "iconColorHex": "#0B8043",
+      "urls": [
+        "googlesheets://",
+        "gsheet://",
+        "https://sheets.google.com"
+      ],
+      "bundleId": "com.google.Sheets",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/13/81/e71381b3-afe7-4770-19ae-0f57ea85d0e6/sheets_2020q4-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/hojas-de-c%C3%A1lculo-de-google/id842849113?uo=4",
+      "genres": [
+        "productivity",
+        "business"
+      ],
+      "urlScheme": "googlesheets://"
+    },
+    "com.google.Drive": {
+      "name": "Google Drive",
+      "iconSymbol": "folder.fill",
+      "iconColorHex": "#4285F4",
+      "urls": [
+        "googledrive://",
+        "gdrive://",
+        "https://drive.google.com"
+      ],
+      "bundleId": "com.google.Drive",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/27/eb/f727eb85-ea72-e278-0672-0adf7d6b044b/drive_2020q4-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/google-drive-almacenamiento/id507874739?uo=4",
+      "genres": [
+        "productivity"
+      ],
+      "urlScheme": "googledrive://"
+    },
+    "com.microsoft.Office.Word": {
+      "name": "Microsoft Word",
+      "iconSymbol": "doc.fill",
+      "iconColorHex": "#2B579A",
+      "urls": [
+        "word://",
+        "https://apps.apple.com/es/app/microsoft-word/id586447913?uo=4"
+      ],
+      "bundleId": "com.microsoft.Office.Word",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/e6/21/69e6216a-6f9f-e488-6d0c-2772c28f88a1/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/microsoft-word/id586447913?uo=4",
+      "genres": [
+        "productivity"
+      ]
+    },
+    "com.microsoft.Office.Excel": {
+      "name": "Microsoft Excel",
+      "iconSymbol": "tablecells.fill",
+      "iconColorHex": "#217346",
+      "urls": [
+        "excel://",
+        "https://apps.apple.com/es/app/microsoft-excel/id586683407?uo=4"
+      ],
+      "bundleId": "com.microsoft.Office.Excel",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/04/22/6d0422d4-adde-7c71-9463-d29471db8f88/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/microsoft-excel/id586683407?uo=4",
+      "genres": [
+        "productivity"
+      ]
+    },
+    "com.microsoft.officemobile": {
+      "name": "Microsoft 365",
+      "iconSymbol": "square.grid.2x2",
+      "iconColorHex": "#EB3B5A",
+      "urls": [
+        "office://",
+        "https://apps.apple.com/es/app/microsoft-365-copilot/id541164041?uo=4"
+      ],
+      "bundleId": "com.microsoft.officemobile",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/ae/23/bfae2366-7ace-efde-0462-646ee63499fd/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/microsoft-365-copilot/id541164041?uo=4",
+      "genres": [
+        "productivity",
+        "business"
+      ]
+    },
+    "com.TickTick.task": {
+      "name": "TickTick",
+      "iconSymbol": "checkmark.square.fill",
+      "iconColorHex": "#FF6B5A",
+      "urls": [
+        "ticktick://",
+        "https://apps.apple.com/es/app/ticktick-listas-de-tareas/id626144601?uo=4"
+      ],
+      "bundleId": "com.TickTick.task",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/85/4a/cd854a81-5c34-df72-86c1-e61dd847abd4/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/ticktick-listas-de-tareas/id626144601?uo=4",
+      "genres": [
+        "productivity",
+        "business"
+      ]
+    },
+    "com.apple.reminders": {
+      "name": "Reminders",
+      "iconSymbol": "list.bullet.circle.fill",
+      "iconColorHex": "#FF9500",
+      "urls": [
+        "reminders://",
+        "https://apps.apple.com/es/app/recordatorios/id1108187841?uo=4"
+      ],
+      "bundleId": "com.apple.reminders",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/ff/b4/47ffb497-6d42-0628-c5a3-fad0de052421/reminders-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/recordatorios/id1108187841?uo=4",
+      "genres": [
+        "productivity"
+      ]
+    },
+    "com.figma.FigmaMirror": {
+      "name": "Figma",
+      "iconSymbol": "pencil.and.outline",
+      "iconColorHex": "#F24E1E",
+      "urls": [
+        "figma://",
+        "https://apps.apple.com/es/app/figma/id1152747299?uo=4"
+      ],
+      "bundleId": "com.figma.FigmaMirror",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/a5/f2/e9a5f238-893f-fe0b-6780-de124bdb4675/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/figma/id1152747299?uo=4",
+      "genres": [
+        "graphics-design",
+        "business"
+      ]
+    },
+    "com.canva.canvaeditor": {
+      "name": "Canva",
+      "iconSymbol": "square.and.pencil",
+      "iconColorHex": "#00D4FF",
+      "urls": [
+        "canva://",
+        "https://apps.apple.com/es/app/canva-editor-de-foto-y-v%C3%ADdeo/id897446215?uo=4"
+      ],
+      "bundleId": "com.canva.canvaeditor",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/f1/79/8cf179f8-75e0-dadf-4ef6-e45e35c1a6b4/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/canva-editor-de-foto-y-v%C3%ADdeo/id897446215?uo=4",
+      "genres": [
+        "photo-video",
+        "productivity"
+      ]
+    },
+    "com.adobe.post": {
+      "name": "Adobe Creative Cloud",
+      "iconSymbol": "paintpalette.fill",
+      "iconColorHex": "#FF0000",
+      "urls": [
+        "adobe-creative://",
+        "https://apps.apple.com/es/app/adobe-express-foto-v%C3%ADdeo-ia/id1051937863?uo=4"
+      ],
+      "bundleId": "com.adobe.post",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/ea/06/faea0674-ace9-5adf-b9c9-dee468c2026b/AppIconSpark-0-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/adobe-express-foto-v%C3%ADdeo-ia/id1051937863?uo=4",
+      "genres": [
+        "graphics-design",
+        "photo-video"
+      ]
+    },
+    "com.revolut.revolut": {
+      "name": "Revolut",
+      "iconSymbol": "creditcard.fill",
+      "iconColorHex": "#0075EB",
+      "urls": [
+        "revolut://",
+        "https://www.revolut.com"
+      ],
+      "bundleId": "com.revolut.revolut",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/83/31/14833156-f906-2cf3-98f4-602f7119a336/AppIcon-Production-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/revolut-m%C3%A1s-que-un-banco/id932493382?uo=4",
+      "genres": [
+        "finance",
+        "travel"
+      ]
+    },
+    "de.no26.Number26": {
+      "name": "N26",
+      "iconSymbol": "banknote.fill",
+      "iconColorHex": "#26CCA5",
+      "urls": [
+        "n26://",
+        "https://apps.apple.com/es/app/n26-enam%C3%B3rate-de-tu-banco/id956857223?uo=4"
+      ],
+      "bundleId": "de.no26.Number26",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/8f/8f/618f8ff7-55b9-592b-b4b2-e02d4be399d9/AppIcon_app_live-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/n26-enam%C3%B3rate-de-tu-banco/id956857223?uo=4",
+      "genres": [
+        "finance",
+        "business"
+      ]
+    },
+    "com.vilcsak.bitcoin2": {
+      "name": "Coinbase",
+      "iconSymbol": "bitcoinsign.circle.fill",
+      "iconColorHex": "#0052FF",
+      "urls": [
+        "coinbase://",
+        "https://www.coinbase.com"
+      ],
+      "bundleId": "com.vilcsak.bitcoin2",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/d1/b7/76d1b7d1-6a3e-75a3-03ad-4d607000cc52/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/coinbase-compra-btc-eth-sol/id886427730?uo=4",
+      "genres": [
+        "finance",
+        "business"
+      ]
+    },
+    "com.czzhao.binance": {
+      "name": "Binance",
+      "iconSymbol": "chart.line.uptrend.xyaxis",
+      "iconColorHex": "#F0B90B",
+      "urls": [
+        "bnc://",
+        "https://apps.apple.com/es/app/binance-compra-bitcoin-crypto/id1436799971?uo=4"
+      ],
+      "bundleId": "com.czzhao.binance",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/9e/d0/e59ed09a-7417-1f65-a783-898c9e00f852/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/binance-compra-bitcoin-crypto/id1436799971?uo=4",
+      "genres": [
+        "finance",
+        "utilities"
+      ]
+    },
+    "com.yourcompany.PPClient": {
+      "name": "PayPal",
+      "iconSymbol": "dollarsign.circle.fill",
+      "iconColorHex": "#003087",
+      "urls": [
+        "paypal://",
+        "https://www.paypal.com"
+      ],
+      "bundleId": "com.yourcompany.PPClient",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/96/13/7396135c-d1a0-b779-b135-a04e0cbe85d7/AppIcon-0-0-1x_U007ephone-0-1-0-GLES2_U002c0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/paypal/id283646709?uo=4",
+      "genres": [
+        "finance",
+        "utilities"
+      ]
+    },
+    "com.transferwise.Transferwise": {
+      "name": "Wise",
+      "iconSymbol": "arrow.left.arrow.right",
+      "iconColorHex": "#13B383",
+      "urls": [
+        "wise://",
+        "https://wise.com"
+      ],
+      "bundleId": "com.transferwise.Transferwise",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/17/3a/d7173acc-ca1a-f48c-3b07-5b9846ffabd4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/wise/id612261027?uo=4",
+      "genres": [
+        "finance",
+        "business"
+      ]
+    },
+    "es.ingdirect.www": {
+      "name": "ING",
+      "iconSymbol": "creditcard",
+      "iconColorHex": "#FF6200",
+      "urls": [
+        "ing://",
+        "https://apps.apple.com/es/app/ing-banca-m%C3%B3vil-y-finanzas/id774858627?uo=4"
+      ],
+      "bundleId": "es.ingdirect.www",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/08/27/320827b2-f3f8-504e-a06e-cac74a29a1c8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/ing-banca-m%C3%B3vil-y-finanzas/id774858627?uo=4",
+      "genres": [
+        "finance",
+        "business"
+      ]
+    },
+    "com.bbva.BBVAMovil": {
+      "name": "BBVA",
+      "iconSymbol": "creditcard",
+      "iconColorHex": "#0066CC",
+      "urls": [
+        "bbva://",
+        "https://www.bbva.es"
+      ],
+      "bundleId": "com.bbva.BBVAMovil",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/a5/a7/f5a5a72d-70ad-c759-9ff5-f7a788b99396/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/bbva-espa%C3%B1a-banca-online/id325813155?uo=4",
+      "genres": [
+        "finance",
+        "business"
+      ]
+    },
+    "com.isban.bancosantander.es.public": {
+      "name": "Santander",
+      "iconSymbol": "creditcard",
+      "iconColorHex": "#EC1C24",
+      "urls": [
+        "santander://",
+        "https://apps.apple.com/es/app/santander-espa%C3%B1a/id408043474?uo=4"
+      ],
+      "bundleId": "com.isban.bancosantander.es.public",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/56/41/ac564162-9ad3-3db5-73c9-cf833f2854b3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/santander-espa%C3%B1a/id408043474?uo=4",
+      "genres": [
+        "finance",
+        "business"
+      ]
+    },
+    "com.thenetfirm.mobile.wapicon.WapIcon": {
+      "name": "CaixaBank",
+      "iconSymbol": "creditcard",
+      "iconColorHex": "#003B7D",
+      "urls": [
+        "caixa://",
+        "https://apps.apple.com/es/app/caixabanknow-tu-banco-online/id318806094?uo=4"
+      ],
+      "bundleId": "com.thenetfirm.mobile.wapicon.WapIcon",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/45/da/2345da94-1a5d-38fd-1038-2d3a8389f629/AppIcon_FULL-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/caixabanknow-tu-banco-online/id318806094?uo=4",
+      "genres": [
+        "finance",
+        "productivity"
+      ]
+    },
+    "uk.co.hsbc.hsbcukmobilebanking": {
+      "name": "HSBC",
+      "iconSymbol": "creditcard",
+      "iconColorHex": "#C8102E",
+      "urls": [
+        "hsbc://",
+        "https://apps.apple.com/es/app/hsbc-uk-mobile-banking/id1220329065?uo=4"
+      ],
+      "bundleId": "uk.co.hsbc.hsbcukmobilebanking",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/51/12/e05112f7-dab8-7f88-543f-9c615f796bfb/IconUK-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/hsbc-uk-mobile-banking/id1220329065?uo=4",
+      "genres": [
+        "finance",
+        "business"
+      ]
+    },
+    "com.lloydstsb.LloydsTSB": {
+      "name": "Lloyds",
+      "iconSymbol": "creditcard",
+      "iconColorHex": "#00A0D2",
+      "urls": [
+        "lloyds://",
+        "https://apps.apple.com/es/app/lloyds-mobile-banking/id469964520?uo=4"
+      ],
+      "bundleId": "com.lloydstsb.LloydsTSB",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/88/f8/a188f864-341b-dd8c-5bff-669fb1f195af/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/lloyds-mobile-banking/id469964520?uo=4",
+      "genres": [
+        "finance",
+        "business"
+      ]
+    },
+    "uk.co.barclays.bmbappstore": {
+      "name": "Barclays",
+      "iconSymbol": "creditcard",
+      "iconColorHex": "#004B87",
+      "urls": [
+        "barclays://",
+        "https://apps.apple.com/es/app/barclays/id536248734?uo=4"
+      ],
+      "bundleId": "uk.co.barclays.bmbappstore",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/2b/74/4e2b7455-dc4f-b7b2-3521-8802b78b9605/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/barclays/id536248734?uo=4",
+      "genres": [
+        "finance",
+        "utilities"
+      ]
+    },
+    "com.db.pbc.mibanco": {
+      "name": "Deutsche Bank",
+      "iconSymbol": "creditcard",
+      "iconColorHex": "#003399",
+      "urls": [
+        "deutsche://",
+        "https://apps.apple.com/es/app/deutsche-bank-espa%C3%B1a/id610680847?uo=4"
+      ],
+      "bundleId": "com.db.pbc.mibanco",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/3f/77/d23f77a4-886a-b99f-9706-d028b5daccef/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/deutsche-bank-espa%C3%B1a/id610680847?uo=4",
+      "genres": [
+        "finance"
+      ]
+    },
+    "net.bnpparibas.mescomptesiphone": {
+      "name": "BNP Paribas",
+      "iconSymbol": "creditcard",
+      "iconColorHex": "#003D7A",
+      "urls": [
+        "bnp://",
+        "https://apps.apple.com/es/app/mes-comptes-bnp-paribas/id377884617?uo=4"
+      ],
+      "bundleId": "net.bnpparibas.mescomptesiphone",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/23/34/55233452-1489-453b-1ea1-1eb2ed30d7ce/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/mes-comptes-bnp-paribas/id377884617?uo=4",
+      "genres": [
+        "finance",
+        "business"
+      ]
+    },
+    "co.mona.Monaco": {
+      "name": "Crypto.com",
+      "iconSymbol": "bitcoinsign.circle.fill",
+      "iconColorHex": "#1652F0",
+      "urls": [
+        "crypto-com://",
+        "https://apps.apple.com/es/app/crypto-com-compre-btc-cro/id1262148500?uo=4"
+      ],
+      "bundleId": "co.mona.Monaco",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/77/b7/4077b78a-8b87-30c6-92ad-4930d2b09be5/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/crypto-com-compre-btc-cro/id1262148500?uo=4",
+      "genres": [
+        "finance",
+        "business"
+      ]
+    },
+    "com.kraken.invest.app": {
+      "name": "Kraken",
+      "iconSymbol": "bitcoinsign.circle.fill",
+      "iconColorHex": "#501B8C",
+      "urls": [
+        "kraken://",
+        "https://apps.apple.com/es/app/kraken-bitcoin-eth-y-crypto/id1481947260?uo=4"
+      ],
+      "bundleId": "com.kraken.invest.app",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/68/b8/0b68b829-db2e-73b5-86b6-2e73ff96827c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/kraken-bitcoin-eth-y-crypto/id1481947260?uo=4",
+      "genres": [
+        "finance",
+        "business"
+      ]
+    },
+    "com.spotify.client": {
+      "name": "Spotify",
+      "iconSymbol": "music.note",
+      "iconColorHex": "#1DB954",
+      "urls": [
+        "spotify://",
+        "https://open.spotify.com"
+      ],
+      "bundleId": "com.spotify.client",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/de/1d/0dde1dad-72fc-5775-5614-bc336070a8ac/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/spotify-m%C3%BAsica-y-p%C3%B3dcasts/id324684580?uo=4",
+      "genres": [
+        "music",
+        "entertainment"
+      ]
+    },
+    "com.apple.Music": {
+      "name": "Apple Music",
+      "iconSymbol": "music.note.list",
+      "iconColorHex": "#FA2D48",
+      "urls": [
+        "music://",
+        "https://apps.apple.com/es/app/m%C3%BAsica/id1108187390?uo=4"
+      ],
+      "bundleId": "com.apple.Music",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/1c/45/061c4521-3735-aee2-87aa-8077d591d25c/music-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/m%C3%BAsica/id1108187390?uo=4",
+      "genres": [
+        "music"
+      ]
+    },
+    "com.google.ios.youtube": {
+      "name": "YouTube",
+      "iconSymbol": "play.rectangle.fill",
+      "iconColorHex": "#FF0000",
+      "urls": [
+        "youtube://",
+        "https://www.youtube.com"
+      ],
+      "bundleId": "com.google.ios.youtube",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/12/cb/6412cbf7-46a2-1d56-5b78-e40f17b9ffbb/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/youtube/id544007664?uo=4",
+      "genres": [
+        "photo-video",
+        "entertainment"
+      ]
+    },
+    "com.google.ios.youtubemusic": {
+      "name": "YouTube Music",
+      "iconSymbol": "music.note.list",
+      "iconColorHex": "#FF0000",
+      "urls": [
+        "youtube-music://",
+        "https://apps.apple.com/es/app/youtube-music/id1017492454?uo=4"
+      ],
+      "bundleId": "com.google.ios.youtubemusic",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/45/e6/7f45e681-3796-b183-0335-c0b684cc9289/logo_youtube_music_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/youtube-music/id1017492454?uo=4",
+      "genres": [
+        "music",
+        "entertainment"
+      ]
+    },
+    "com.netflix.Netflix": {
+      "name": "Netflix",
+      "iconSymbol": "film.fill",
+      "iconColorHex": "#E50914",
+      "urls": [
+        "nflx://",
+        "https://www.netflix.com"
+      ],
+      "bundleId": "com.netflix.Netflix",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/57/a1/6657a138-2d3e-ad93-fbec-4a1d8407485e/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/netflix/id363590051?uo=4",
+      "genres": [
+        "entertainment",
+        "lifestyle"
+      ]
+    },
+    "com.wbd.stream": {
+      "name": "HBO Max",
+      "iconSymbol": "film.fill",
+      "iconColorHex": "#000000",
+      "urls": [
+        "hbo://",
+        "https://apps.apple.com/es/app/hbo-max-ve-pel%C3%ADculas-y-tv/id1666653815?uo=4"
+      ],
+      "bundleId": "com.wbd.stream",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/06/81/6f0681c6-b122-f5c3-49c4-90892cf4b619/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/hbo-max-ve-pel%C3%ADculas-y-tv/id1666653815?uo=4",
+      "genres": [
+        "entertainment",
+        "lifestyle"
+      ]
+    },
+    "com.amazon.aiv.AIVApp": {
+      "name": "Prime Video",
+      "iconSymbol": "film.fill",
+      "iconColorHex": "#00A8E1",
+      "urls": [
+        "amazon-prime://",
+        "https://www.primevideo.com"
+      ],
+      "bundleId": "com.amazon.aiv.AIVApp",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/24/97/b524972f-2b46-519b-70c4-ba75e484c991/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/amazon-prime-video/id545519333?uo=4",
+      "genres": [
+        "entertainment",
+        "lifestyle"
+      ]
+    },
+    "com.disney.disneyplus": {
+      "name": "Disney+",
+      "iconSymbol": "film.fill",
+      "iconColorHex": "#113CCF",
+      "urls": [
+        "disney://",
+        "https://www.disneyplus.com"
+      ],
+      "bundleId": "com.disney.disneyplus",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/f0/f5/5bf0f5e7-5b6d-d5d4-b696-c51a2ff17615/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/disney/id1446075923?uo=4",
+      "genres": [
+        "entertainment"
+      ]
+    },
+    "tv.twitch": {
+      "name": "Twitch",
+      "iconSymbol": "tv.fill",
+      "iconColorHex": "#9146FF",
+      "urls": [
+        "twitch://",
+        "https://www.twitch.tv"
+      ],
+      "bundleId": "tv.twitch",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/d1/2f/85d12fcd-228e-c236-95dc-070d10f04715/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/twitch-emisiones-en-directo/id460177396?uo=4",
+      "genres": [
+        "photo-video",
+        "social-networking"
+      ]
+    },
+    "com.soundcloud.TouchApp": {
+      "name": "SoundCloud",
+      "iconSymbol": "waveform",
+      "iconColorHex": "#FF5500",
+      "urls": [
+        "soundcloud://",
+        "https://soundcloud.com"
+      ],
+      "bundleId": "com.soundcloud.TouchApp",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/2d/17/b42d175d-cc99-3166-d630-0130de149c83/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/soundcloud-tu-m%C3%BAsica-favorita/id336353151?uo=4",
+      "genres": [
+        "music",
+        "social-networking"
+      ]
+    },
+    "com.aspiro.TIDAL": {
+      "name": "Tidal",
+      "iconSymbol": "waveform.circle.fill",
+      "iconColorHex": "#000000",
+      "urls": [
+        "tidal://",
+        "https://www.tidal.com"
+      ],
+      "bundleId": "com.aspiro.TIDAL",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/28/26/8b28260e-15ad-f30f-ba50-73e919069923/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/tidal-music-sonido-hifi/id913943275?uo=4",
+      "genres": [
+        "music",
+        "lifestyle"
+      ]
+    },
+    "com.deezer.Deezer": {
+      "name": "Deezer",
+      "iconSymbol": "waveform.circle",
+      "iconColorHex": "#FF0084",
+      "urls": [
+        "deezer://",
+        "https://www.deezer.com"
+      ],
+      "bundleId": "com.deezer.Deezer",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/96/9b/88969b0c-6571-86a2-ad0a-ea3c550f90d7/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/deezer-m%C3%BAsica-y-podcast/id292738169?uo=4",
+      "genres": [
+        "music",
+        "entertainment"
+      ]
+    },
+    "com.plexapp.plex": {
+      "name": "Plex",
+      "iconSymbol": "play.circle.fill",
+      "iconColorHex": "#E5A00D",
+      "urls": [
+        "plex://",
+        "https://apps.apple.com/es/app/plex-tv-y-noticias-en-vivo/id383457673?uo=4"
+      ],
+      "bundleId": "com.plexapp.plex",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/82/25/268225bb-8921-a739-0287-019a30a5314e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/plex-tv-y-noticias-en-vivo/id383457673?uo=4",
+      "genres": [
+        "entertainment",
+        "photo-video"
+      ]
+    },
+    "com.apple.tv": {
+      "name": "Apple TV",
+      "iconSymbol": "tv.fill",
+      "iconColorHex": "#000000",
+      "urls": [
+        "appletv://",
+        "https://apps.apple.com/es/app/apple-tv/id1174078549?uo=4"
+      ],
+      "bundleId": "com.apple.tv",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/88/af/4188af31-d75a-23c9-f97b-486ec1ff4897/tv-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/apple-tv/id1174078549?uo=4",
+      "genres": [
+        "entertainment"
+      ]
+    },
+    "com.github.stormbreaker.prod": {
+      "name": "GitHub",
+      "iconSymbol": "chevron.left.forwardslash.chevron.right",
+      "iconColorHex": "#24292F",
+      "urls": [
+        "github://",
+        "vscodium://",
+        "https://github.com"
+      ],
+      "bundleId": "com.github.stormbreaker.prod",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/c6/e3/5bc6e33d-8636-25c4-a796-5946378e2bff/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/github/id1477376905?uo=4",
+      "genres": [
+        "developer-tools",
+        "productivity"
+      ]
+    },
+    "com.textasticapp.textastic-universal": {
+      "name": "Textastic",
+      "iconSymbol": "curlybraces",
+      "iconColorHex": "#4DAFFF",
+      "urls": [
+        "textastic://",
+        "https://apps.apple.com/es/app/textastic-code-editor/id1049254261?uo=4"
+      ],
+      "bundleId": "com.textasticapp.textastic-universal",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/d9/a1/c2d9a131-e706-eef7-dd04-100fb340d9c6/Textastic_App_Icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/textastic-code-editor/id1049254261?uo=4",
+      "genres": [
+        "developer-tools",
+        "productivity"
+      ]
+    },
+    "com.panic.prompt.3": {
+      "name": "Prompt 3",
+      "iconSymbol": "terminal.fill",
+      "iconColorHex": "#2F7E44",
+      "urls": [
+        "prompt3://",
+        "https://apps.apple.com/es/app/prompt-3/id1594420480?uo=4"
+      ],
+      "bundleId": "com.panic.prompt.3",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/fe/07/f5fe0740-61ab-505f-3a9b-f5134dbf8efa/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/prompt-3/id1594420480?uo=4",
+      "genres": [
+        "developer-tools",
+        "utilities"
+      ]
+    },
+    "AsheKube.app.a-Shell": {
+      "name": "a-Shell",
+      "iconSymbol": "greaterthan.square.fill",
+      "iconColorHex": "#222222",
+      "urls": [
+        "ashell://",
+        "https://apps.apple.com/es/app/a-shell/id1473805438?uo=4"
+      ],
+      "bundleId": "AsheKube.app.a-Shell",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/42/6b/2a426bfd-b6e5-db69-be9f-e81aa935c454/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/a-shell/id1473805438?uo=4",
+      "genres": [
+        "developer-tools",
+        "productivity"
+      ]
+    },
+    "com.appliedphasor.working-copy": {
+      "name": "Working Copy",
+      "iconSymbol": "arrow.triangle.branch",
+      "iconColorHex": "#5C5CFF",
+      "urls": [
+        "working-copy://",
+        "gitbucket://",
+        "https://workingcopy.app"
+      ],
+      "bundleId": "com.appliedphasor.working-copy",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/6b/5e/f56b5ea0-8ac9-ca62-32fd-50815665760f/Regular-Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/working-copy-git-client/id896694807?uo=4",
+      "genres": [
+        "developer-tools",
+        "productivity"
+      ]
+    },
+    "de.hansaflex.xCodeManager": {
+      "name": "Xcode",
+      "iconSymbol": "xmark.app.fill",
+      "iconColorHex": "#147EFB",
+      "urls": [
+        "xcode://",
+        "https://apps.apple.com/es/app/x-code-manager/id1527413811?uo=4"
+      ],
+      "bundleId": "de.hansaflex.xCodeManager",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/cb/95/f5cb9594-0ac1-24f1-5f3d-35f4703a67a7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/x-code-manager/id1527413811?uo=4",
+      "genres": [
+        "productivity"
+      ]
+    },
+    "com.strava.stravaride": {
+      "name": "Strava",
+      "iconSymbol": "figure.run",
+      "iconColorHex": "#FC4C02",
+      "urls": [
+        "strava://",
+        "https://www.strava.com"
+      ],
+      "bundleId": "com.strava.stravaride",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/e1/bf/a5e1bf8f-e743-7ac9-b0a7-d738384e515b/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/strava-corre-camina-pedalea/id426826309?uo=4",
+      "genres": [
+        "health-fitness",
+        "sports"
+      ]
+    },
+    "com.myfitnesspal.mfp": {
+      "name": "MyFitnessPal",
+      "iconSymbol": "fork.knife.circle.fill",
+      "iconColorHex": "#0069A8",
+      "urls": [
+        "myfitnesspal://",
+        "https://apps.apple.com/es/app/myfitnesspal-cuenta-calor%C3%ADas/id341232718?uo=4"
+      ],
+      "bundleId": "com.myfitnesspal.mfp",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/45/38/dd45388c-daa2-9328-9570-5b4e5aa61675/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/myfitnesspal-cuenta-calor%C3%ADas/id341232718?uo=4",
+      "genres": [
+        "health-fitness",
+        "food-drink"
+      ]
+    },
+    "com.getsomeheadspace.headspace": {
+      "name": "Headspace",
+      "iconSymbol": "brain.head.profile",
+      "iconColorHex": "#F47D31",
+      "urls": [
+        "headspace://",
+        "https://apps.apple.com/es/app/headspace-sue%C3%B1o-y-meditaci%C3%B3n/id493145008?uo=4"
+      ],
+      "bundleId": "com.getsomeheadspace.headspace",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/bb/75/29bb757b-6042-d514-3197-d46e7243985f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/headspace-sue%C3%B1o-y-meditaci%C3%B3n/id493145008?uo=4",
+      "genres": [
+        "health-fitness",
+        "productivity"
+      ]
+    },
+    "com.calm.calmapp": {
+      "name": "Calm",
+      "iconSymbol": "moon.fill",
+      "iconColorHex": "#0EA5E9",
+      "urls": [
+        "calm://",
+        "https://apps.apple.com/es/app/calm-meditaci%C3%B3n-y-sue%C3%B1o/id571800810?uo=4"
+      ],
+      "bundleId": "com.calm.calmapp",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/9e/e5/179ee569-5dae-d85f-5d52-92b607761a48/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/calm-meditaci%C3%B3n-y-sue%C3%B1o/id571800810?uo=4",
+      "genres": [
+        "health-fitness",
+        "lifestyle"
+      ]
+    },
+    "com.fitbit.FitbitMobile": {
+      "name": "Fitbit",
+      "iconSymbol": "heart.fill",
+      "iconColorHex": "#00B4D8",
+      "urls": [
+        "fitbit://",
+        "https://www.fitbit.com"
+      ],
+      "bundleId": "com.fitbit.FitbitMobile",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/73/f7/de73f747-db4c-f245-912b-438deac6c353/AppIcon-0-1x_U007emarketing-0-0-0-1-0-0-sRGB-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/fitbit-salud-y-ejercicio/id462638897?uo=4",
+      "genres": [
+        "health-fitness",
+        "lifestyle"
+      ]
+    },
+    "com.apple.Health": {
+      "name": "Apple Health",
+      "iconSymbol": "heart.text.square.fill",
+      "iconColorHex": "#E74C3C",
+      "urls": [
+        "health://",
+        "https://apps.apple.com/es/app/apple-salud/id1242545199?uo=4"
+      ],
+      "bundleId": "com.apple.Health",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/5a/1f/1a5a1ffd-7db8-ba85-10ad-93c11b085683/health-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/apple-salud/id1242545199?uo=4",
+      "genres": [
+        "health-fitness"
+      ]
+    },
+    "com.garmin.connect.mobile": {
+      "name": "Garmin Connect",
+      "iconSymbol": "heart.circle.fill",
+      "iconColorHex": "#003DA5",
+      "urls": [
+        "garmin://",
+        "https://connect.garmin.com"
+      ],
+      "bundleId": "com.garmin.connect.mobile",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/87/85/bf87857a-3172-2e5e-d344-14acfbdebcce/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/garmin-connect/id583446403?uo=4",
+      "genres": [
+        "health-fitness",
+        "sports"
+      ]
+    },
+    "com.ouraring.oura": {
+      "name": "Oura Ring",
+      "iconSymbol": "infinity",
+      "iconColorHex": "#14213D",
+      "urls": [
+        "oura://",
+        "https://apps.apple.com/es/app/oura/id1043837948?uo=4"
+      ],
+      "bundleId": "com.ouraring.oura",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/17/62/2d176219-811b-1c49-e4b6-37c506598e01/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/oura/id1043837948?uo=4",
+      "genres": [
+        "health-fitness",
+        "lifestyle"
+      ]
+    },
+    "com.fitonapp.fiton": {
+      "name": "Peloton",
+      "iconSymbol": "bicycle",
+      "iconColorHex": "#FFC900",
+      "urls": [
+        "peloton://",
+        "https://apps.apple.com/es/app/fiton-entrenamientos-y-fitness/id1442473191?uo=4"
+      ],
+      "bundleId": "com.fitonapp.fiton",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/7b/dc/e47bdcb9-9e1f-0df9-544e-258c85bb891d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/fiton-entrenamientos-y-fitness/id1442473191?uo=4",
+      "genres": [
+        "health-fitness",
+        "lifestyle"
+      ]
+    },
+    "com.nike.niketrainingclub": {
+      "name": "Nike Training Club",
+      "iconSymbol": "figure.play",
+      "iconColorHex": "#000000",
+      "urls": [
+        "nike-training://",
+        "https://apps.apple.com/es/app/nike-training-club/id301521403?uo=4"
+      ],
+      "bundleId": "com.nike.niketrainingclub",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/08/06/e4080602-baf2-35eb-0698-eca63d514352/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/nike-training-club/id301521403?uo=4",
+      "genres": [
+        "health-fitness",
+        "lifestyle"
+      ]
+    },
+    "se.perigee.7minute-workout": {
+      "name": "7 Minute Workout",
+      "iconSymbol": "timer",
+      "iconColorHex": "#FF6B35",
+      "urls": [
+        "7min://",
+        "https://apps.apple.com/es/app/seven-entrena-7-minutos/id650276551?uo=4"
+      ],
+      "bundleId": "se.perigee.7minute-workout",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/7b/a5/117ba594-358d-2cea-b6a1-4220033180c8/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-GLES2_U002c0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/seven-entrena-7-minutos/id650276551?uo=4",
+      "genres": [
+        "health-fitness",
+        "sports"
+      ]
+    },
+    "com.cameronchow.Strong": {
+      "name": "Strong",
+      "iconSymbol": "dumbbell.fill",
+      "iconColorHex": "#FF6B35",
+      "urls": [
+        "strong://",
+        "https://apps.apple.com/es/app/strong-workout-tracker-gym-log/id464254577?uo=4"
+      ],
+      "bundleId": "com.cameronchow.Strong",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/fa/59/99fa59d8-101d-f3b1-d823-deb4bb6144de/AppIcon_PROD-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/strong-workout-tracker-gym-log/id464254577?uo=4",
+      "genres": [
+        "health-fitness",
+        "lifestyle"
+      ]
+    },
+    "com.alina.gridmaker": {
+      "name": "Likes",
+      "iconSymbol": "heart",
+      "iconColorHex": "#FF0000",
+      "urls": [
+        "likedme://",
+        "https://apps.apple.com/es/app/likes-para-instagram-gridmaker/id6670403816?uo=4"
+      ],
+      "bundleId": "com.alina.gridmaker",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/08/76/82087683-5467-a277-d7c4-d63a1a87e58d/AppIcon-0-1x_U007epad-0-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/likes-para-instagram-gridmaker/id6670403816?uo=4",
+      "genres": [
+        "photo-video"
+      ]
+    },
+    "com.google.Maps": {
+      "name": "Google Maps",
+      "iconSymbol": "map.fill",
+      "iconColorHex": "#34A853",
+      "urls": [
+        "comgooglemaps://",
+        "https://apps.apple.com/es/app/google-maps/id585027354?uo=4"
+      ],
+      "bundleId": "com.google.Maps",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/6d/7d/bd6d7df7-eb01-15e6-9f0f-0b38ee446ce6/maps_2025-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/google-maps/id585027354?uo=4",
+      "genres": [
+        "navigation",
+        "food-drink"
+      ]
+    },
+    "azdev.citymapper": {
+      "name": "Citymapper",
+      "iconSymbol": "tram.fill",
+      "iconColorHex": "#00C7B1",
+      "urls": [
+        "citymapper://",
+        "https://apps.apple.com/es/app/citymapper/id469463298?uo=4"
+      ],
+      "bundleId": "azdev.citymapper",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/5c/36/035c3630-b71a-da18-29e2-b24396e8457e/AppIcon-Release-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/citymapper/id469463298?uo=4",
+      "genres": [
+        "navigation",
+        "travel"
+      ]
+    },
+    "com.airbnb.app": {
+      "name": "Airbnb",
+      "iconSymbol": "house.fill",
+      "iconColorHex": "#FF5A5F",
+      "urls": [
+        "airbnb://",
+        "https://www.airbnb.com"
+      ],
+      "bundleId": "com.airbnb.app",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/bb/39/b3bb396c-493f-7659-ac1a-fa906400aaa0/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/airbnb/id401626263?uo=4",
+      "genres": [
+        "travel",
+        "lifestyle"
+      ]
+    },
+    "com.ubercab.UberClient": {
+      "name": "Uber",
+      "iconSymbol": "car.fill",
+      "iconColorHex": "#000000",
+      "urls": [
+        "uber://",
+        "https://m.uber.com"
+      ],
+      "bundleId": "com.ubercab.UberClient",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/6e/13/766e1391-48f7-2812-5882-634c78da5176/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/uber-viajes-en-taxi-y-m%C3%A1s/id368677368?uo=4",
+      "genres": [
+        "travel",
+        "lifestyle"
+      ]
+    },
+    "com.booking.BookingApp": {
+      "name": "Booking.com",
+      "iconSymbol": "bed.double.fill",
+      "iconColorHex": "#003580",
+      "urls": [
+        "booking://",
+        "https://www.booking.com"
+      ],
+      "bundleId": "com.booking.BookingApp",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/3c/d9/eb3cd914-b477-0c7e-1d4c-a220b8d7a147/AppIcon-0-0-1x_U007epad-0-9-0-85-220.jpeg/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/booking-com-ofertas-de-viaje/id367003839?uo=4",
+      "genres": [
+        "travel",
+        "lifestyle"
+      ]
+    },
+    "net.skyscanner.iphone": {
+      "name": "Skyscanner",
+      "iconSymbol": "airplane",
+      "iconColorHex": "#FFCC00",
+      "urls": [
+        "skyscanner://",
+        "https://www.skyscanner.com"
+      ],
+      "bundleId": "net.skyscanner.iphone",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/c9/34/41c93415-8d17-95f2-a0c1-37387f37c92e/LiquidGlassUniversalAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/skyscanner-vuelos-y-hoteles/id415458524?uo=4",
+      "genres": [
+        "travel"
+      ]
+    },
+    "com.google.GoogleMobile": {
+      "name": "Google Flights",
+      "iconSymbol": "airplane.circle.fill",
+      "iconColorHex": "#4A90E2",
+      "urls": [
+        "googleflights://",
+        "https://apps.apple.com/es/app/google/id284815942?uo=4"
+      ],
+      "bundleId": "com.google.GoogleMobile",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/a5/68/81a56888-468e-49f6-a878-bbae1d0849ed/logo_gsa_gradient_ios_color-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/google/id284815942?uo=4",
+      "genres": [
+        "utilities",
+        "reference"
+      ]
+    },
+    "com.tripadvisor.LocalPicks": {
+      "name": "TripAdvisor",
+      "iconSymbol": "mappin.circle.fill",
+      "iconColorHex": "#00AA4D",
+      "urls": [
+        "tripadvisor://",
+        "https://apps.apple.com/es/app/tripadvisor-planes-y-reservas/id284876795?uo=4"
+      ],
+      "bundleId": "com.tripadvisor.LocalPicks",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/0a/6e/290a6e2c-c7ac-4ef5-7cd3-f1b6629a8dd5/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/tripadvisor-planes-y-reservas/id284876795?uo=4",
+      "genres": [
+        "travel",
+        "lifestyle"
+      ]
+    },
+    "com.hotels.HotelsNearMe": {
+      "name": "Hotels.com",
+      "iconSymbol": "bed.double",
+      "iconColorHex": "#003580",
+      "urls": [
+        "hotels://",
+        "https://apps.apple.com/es/app/hoteles-com-hoteles-y-m%C3%A1s/id284971959?uo=4"
+      ],
+      "bundleId": "com.hotels.HotelsNearMe",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/5f/d8/905fd887-10b0-6a3c-c900-e3f4d3594fe4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/hoteles-com-hoteles-y-m%C3%A1s/id284971959?uo=4",
+      "genres": [
+        "travel",
+        "lifestyle"
+      ]
+    },
+    "com.kayak.travel": {
+      "name": "Kayak",
+      "iconSymbol": "airplane.tip.down",
+      "iconColorHex": "#003DA5",
+      "urls": [
+        "kayak://",
+        "https://www.kayak.com"
+      ],
+      "bundleId": "com.kayak.travel",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/a5/7d/b6a57d23-ccbd-5a6b-5896-e45052429859/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/kayak-vuelos-hoteles-coches/id305204535?uo=4",
+      "genres": [
+        "travel",
+        "business"
+      ]
+    },
+    "com.expedia.booking": {
+      "name": "Expedia",
+      "iconSymbol": "globe.badge.chevron.backward",
+      "iconColorHex": "#FFCC00",
+      "urls": [
+        "expedia://",
+        "https://www.expedia.com"
+      ],
+      "bundleId": "com.expedia.booking",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/e2/b6/dde2b62b-fa7b-f0e3-d90d-454fbfe01082/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/expedia-viaje-hotel-vuelo/id427916203?uo=4",
+      "genres": [
+        "travel",
+        "lifestyle"
+      ]
+    },
+    "com.thetrainline.iphone": {
+      "name": "Trainline",
+      "iconSymbol": "train.side.middle.car",
+      "iconColorHex": "#0066CC",
+      "urls": [
+        "train-line://",
+        "https://apps.apple.com/es/app/trainline-billetes-de-tren/id334235181?uo=4"
+      ],
+      "bundleId": "com.thetrainline.iphone",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/ba/14/3cba14b1-5eab-7f69-3ae6-cb749503fce3/app-icon-classic-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/trainline-billetes-de-tren/id334235181?uo=4",
+      "genres": [
+        "travel",
+        "navigation"
+      ]
+    },
+    "com.ryanair.cheapflights": {
+      "name": "Ryanair",
+      "iconSymbol": "airplane.circle",
+      "iconColorHex": "#003DA5",
+      "urls": [
+        "ryanair://",
+        "https://apps.apple.com/es/app/ryanair/id504270602?uo=4"
+      ],
+      "bundleId": "com.ryanair.cheapflights",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/d2/3d/7ad23d60-e339-13fc-99a2-af19aea455ca/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/ryanair/id504270602?uo=4",
+      "genres": [
+        "travel"
+      ]
+    },
+    "com.ubercab.UberEats": {
+      "name": "Uber Eats",
+      "iconSymbol": "fork.knife",
+      "iconColorHex": "#000000",
+      "urls": [
+        "uber-eats://",
+        "https://www.ubereats.com"
+      ],
+      "bundleId": "com.ubercab.UberEats",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/7b/27/3f7b27f1-7a31-edac-1672-c43f162e8cb8/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/uber-eats-comida-a-domicilio/id1058959277?uo=4",
+      "genres": [
+        "food-drink",
+        "lifestyle"
+      ]
+    },
+    "com.deliveroo.orderapp": {
+      "name": "Delivery Hero",
+      "iconSymbol": "bag.fill",
+      "iconColorHex": "#FF6B00",
+      "urls": [
+        "delivery-hero://",
+        "https://apps.apple.com/es/app/deliveroo-food-shopping/id1001501844?uo=4"
+      ],
+      "bundleId": "com.deliveroo.orderapp",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/38/78/71387896-d593-5d72-8a56-e9417b45a141/Production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/deliveroo-food-shopping/id1001501844?uo=4",
+      "genres": [
+        "food-drink",
+        "shopping"
+      ]
+    },
+    "com.justeat.JUSTEAT": {
+      "name": "Just Eat",
+      "iconSymbol": "fork.knife.circle",
+      "iconColorHex": "#E8125D",
+      "urls": [
+        "just-eat://",
+        "https://apps.apple.com/es/app/just-eat-comida-a-domicilio/id566347057?uo=4"
+      ],
+      "bundleId": "com.justeat.JUSTEAT",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/3b/8d/ad3b8dab-fc68-543f-1bba-b9995b9a4fc6/AppIcon-JE-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/just-eat-comida-a-domicilio/id566347057?uo=4",
+      "genres": [
+        "food-drink",
+        "lifestyle"
+      ]
+    },
+    "com.grubhub.search": {
+      "name": "Grubhub",
+      "iconSymbol": "fork.knife",
+      "iconColorHex": "#3B7FE4",
+      "urls": [
+        "grubhub://",
+        "https://apps.apple.com/es/app/grubhub-food-delivery/id302920553?uo=4"
+      ],
+      "bundleId": "com.grubhub.search",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/c9/85/b8c985ec-d352-6897-139f-e6a6c97ebc03/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/grubhub-food-delivery/id302920553?uo=4",
+      "genres": [
+        "food-drink",
+        "travel"
+      ]
+    },
+    "com.woltapp.wolt": {
+      "name": "Wolt",
+      "iconSymbol": "cart.fill",
+      "iconColorHex": "#00C7FD",
+      "urls": [
+        "wolt://",
+        "https://apps.apple.com/es/app/wolt-delivery-food-and-more/id943905271?uo=4"
+      ],
+      "bundleId": "com.woltapp.wolt",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/b3/e2/7ab3e220-062f-bfb7-2c28-4302027740b5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/wolt-delivery-food-and-more/id943905271?uo=4",
+      "genres": [
+        "food-drink",
+        "shopping"
+      ]
+    },
+    "com.getir.ios": {
+      "name": "Gorillas",
+      "iconSymbol": "cube.box.fill",
+      "iconColorHex": "#000000",
+      "urls": [
+        "gorillas://",
+        "https://apps.apple.com/es/app/getir-tu-compra-en-minutos/id995280265?uo=4"
+      ],
+      "bundleId": "com.getir.ios",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/75/1d/86751d8d-3cf0-b3dc-fe3c-b1764d624eef/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/getir-tu-compra-en-minutos/id995280265?uo=4",
+      "genres": [
+        "shopping",
+        "food-drink"
+      ]
+    },
+    "cz.iTesco.clubcardHU": {
+      "name": "Tesco",
+      "iconSymbol": "cart.fill",
+      "iconColorHex": "#0052CC",
+      "urls": [
+        "tesco://",
+        "https://apps.apple.com/es/app/clubcard-tesco-magyarorsz%C3%A1g/id1033587426?uo=4"
+      ],
+      "bundleId": "cz.iTesco.clubcardHU",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/15/bd/f615bdfc-c217-5c6e-880a-750e2bdf74e8/AppIconHU-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/clubcard-tesco-magyarorsz%C3%A1g/id1033587426?uo=4",
+      "genres": [
+        "shopping",
+        "food-drink"
+      ]
+    },
+    "uk.co.sainsburys.groceries": {
+      "name": "Sainsbury's",
+      "iconSymbol": "cart",
+      "iconColorHex": "#FF6500",
+      "urls": [
+        "sainsburys://",
+        "https://apps.apple.com/es/app/sainsburys-groceries/id1086056964?uo=4"
+      ],
+      "bundleId": "uk.co.sainsburys.groceries",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/2a/4a/3f2a4ad9-0c9a-f182-b0a9-e392cb5af7ab/SainsburysGol-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/sainsburys-groceries/id1086056964?uo=4",
+      "genres": [
+        "shopping",
+        "lifestyle"
+      ]
+    },
+    "com.tescobank.mobile.ios.iphone.TescoBank": {
+      "name": "Tesco Clubcard",
+      "iconSymbol": "creditcard.circle.fill",
+      "iconColorHex": "#0052CC",
+      "urls": [
+        "tesco-clubcard://",
+        "https://apps.apple.com/es/app/tesco-bank-and-clubcard-pay/id857834425?uo=4"
+      ],
+      "bundleId": "com.tescobank.mobile.ios.iphone.TescoBank",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/74/e8/0f74e86f-3bd5-d1d8-857d-cb180142f91a/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/tesco-bank-and-clubcard-pay/id857834425?uo=4",
+      "genres": [
+        "finance",
+        "utilities"
+      ]
+    },
+    "com.usablenet.walgreens": {
+      "name": "Walgreens",
+      "iconSymbol": "heart.circle.fill",
+      "iconColorHex": "#CC0000",
+      "urls": [
+        "walgreens://",
+        "cvs://",
+        "https://www.walgreens.com"
+      ],
+      "bundleId": "com.usablenet.walgreens",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/76/fb/a876fbbf-981b-9a6d-7c72-541a44a8429e/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/walgreens/id335364882?uo=4",
+      "genres": [
+        "shopping",
+        "lifestyle"
+      ]
+    },
+    "com.wfm-online.tribal": {
+      "name": "Whole Foods",
+      "iconSymbol": "leaf.fill",
+      "iconColorHex": "#006B3F",
+      "urls": [
+        "wholefoods://",
+        "https://apps.apple.com/es/app/wfm-events/id1495357862?uo=4"
+      ],
+      "bundleId": "com.wfm-online.tribal",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/a1/76/e9a17627-8b02-21f3-43a8-916c96bf838a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/wfm-events/id1495357862?uo=4",
+      "genres": [
+        "business"
+      ]
+    },
+    "me.doubledutch.kcwmh.walmartevents": {
+      "name": "Walmart",
+      "iconSymbol": "cart.circle.fill",
+      "iconColorHex": "#0071CE",
+      "urls": [
+        "walmart://",
+        "https://apps.apple.com/es/app/wmt-events/id1196382099?uo=4"
+      ],
+      "bundleId": "me.doubledutch.kcwmh.walmartevents",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/99/84/c3/9984c35d-4293-76c6-61e4-a22e4c4a4799/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/wmt-events/id1196382099?uo=4",
+      "genres": [
+        "productivity"
+      ]
+    },
+    "com.targetaustralia.App": {
+      "name": "Target",
+      "iconSymbol": "target",
+      "iconColorHex": "#CC0000",
+      "urls": [
+        "target://",
+        "https://apps.apple.com/es/app/target-australia/id440622971?uo=4"
+      ],
+      "bundleId": "com.targetaustralia.App",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/d5/25/77d525b7-bb66-8183-e7a9-5443159e409b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/target-australia/id440622971?uo=4",
+      "genres": [
+        "shopping",
+        "lifestyle"
+      ]
+    },
+    "com.etsy.etsyforios": {
+      "name": "Etsy",
+      "iconSymbol": "bag.badge.plus",
+      "iconColorHex": "#F1641E",
+      "urls": [
+        "etsy://",
+        "https://apps.apple.com/es/app/etsy-compra-hogar-y-estilo/id477128284?uo=4"
+      ],
+      "bundleId": "com.etsy.etsyforios",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/a9/b9/1aa9b9d3-dd5f-2e03-5382-c89b26e158c7/BOEAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/etsy-compra-hogar-y-estilo/id477128284?uo=4",
+      "genres": [
+        "shopping",
+        "lifestyle"
+      ]
+    },
+    "com.mercadopago.MercadoPago": {
+      "name": "Mercado Libre",
+      "iconSymbol": "cart.fill",
+      "iconColorHex": "#FFB81C",
+      "urls": [
+        "mercadolibre://",
+        "https://apps.apple.com/es/app/mercado-pago-cuenta-digital/id925436649?uo=4"
+      ],
+      "bundleId": "com.mercadopago.MercadoPago",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/d2/6f/ddd26fc4-1e20-b577-8d6a-978178586ba8/App_Icon-1x_U007emarketing-0-6-0-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/mercado-pago-cuenta-digital/id925436649?uo=4",
+      "genres": [
+        "finance"
+      ]
+    },
+    "com.amazon.AmazonUK": {
+      "name": "Amazon",
+      "iconSymbol": "cart.fill",
+      "iconColorHex": "#FF9900",
+      "urls": [
+        "amazon://",
+        "https://www.amazon.com"
+      ],
+      "bundleId": "com.amazon.AmazonUK",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/8c/e3/da8ce3d9-da03-6845-70d5-22114e00cb4e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/amazon-compras/id335187483?uo=4",
+      "genres": [
+        "shopping",
+        "lifestyle"
+      ]
+    },
+    "com.ebay.iphone": {
+      "name": "eBay",
+      "iconSymbol": "bag.fill",
+      "iconColorHex": "#E53238",
+      "urls": [
+        "ebay://",
+        "https://apps.apple.com/es/app/ebay-comprar-y-vender-de-todo/id282614216?uo=4"
+      ],
+      "bundleId": "com.ebay.iphone",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/98/20/409820f8-2b71-c45f-cc1f-bdd40b26845e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/ebay-comprar-y-vender-de-todo/id282614216?uo=4",
+      "genres": [
+        "shopping",
+        "lifestyle"
+      ]
+    },
+    "com.adobe.xd.ios": {
+      "name": "Adobe XD",
+      "iconSymbol": "paintbrush.fill",
+      "iconColorHex": "#FF61F6",
+      "urls": [
+        "adobe-xd://",
+        "https://apps.apple.com/es/app/adobe-xd/id1146597773?uo=4"
+      ],
+      "bundleId": "com.adobe.xd.ios",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/36/51/58365182-ea06-3d8b-cf7f-9d3350d52678/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/adobe-xd/id1146597773?uo=4",
+      "genres": [
+        "graphics-design",
+        "developer-tools"
+      ]
+    },
+    "com.autodesk.ios.SketchBookPro3": {
+      "name": "Sketch",
+      "iconSymbol": "pencil.and.outline",
+      "iconColorHex": "#F7B500",
+      "urls": [
+        "sketch://",
+        "https://apps.apple.com/es/app/sketchbook/id883738213?uo=4"
+      ],
+      "bundleId": "com.autodesk.ios.SketchBookPro3",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/c2/38/2cc2381d-5dca-3a7f-d574-c61c14b8aa9f/AppIcon-0-0-1x_U007epad-0-9-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/sketchbook/id883738213?uo=4",
+      "genres": [
+        "graphics-design",
+        "productivity"
+      ]
+    },
+    "com.hasankassem.mockup": {
+      "name": "Framer",
+      "iconSymbol": "square.stack.3d.up.fill",
+      "iconColorHex": "#0099FF",
+      "urls": [
+        "framer://",
+        "https://apps.apple.com/es/app/mockup-ui-ux/id1527554407?uo=4"
+      ],
+      "bundleId": "com.hasankassem.mockup",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/b7/81/02b78174-3a0a-3c9a-94f0-147b04c00cb5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/mockup-ui-ux/id1527554407?uo=4",
+      "genres": [
+        "graphics-design",
+        "developer-tools"
+      ]
+    },
+    "com.realtimeboard.rtbPhone": {
+      "name": "Miro",
+      "iconSymbol": "square.grid.2x2",
+      "iconColorHex": "#FFD700",
+      "urls": [
+        "miro://",
+        "https://apps.apple.com/es/app/miro-tu-espacio-de-trabajo/id1180074773?uo=4"
+      ],
+      "bundleId": "com.realtimeboard.rtbPhone",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/e8/61/0ce86138-4344-d872-25de-6b7aaea99934/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/miro-tu-espacio-de-trabajo/id1180074773?uo=4",
+      "genres": [
+        "productivity",
+        "business"
+      ]
+    },
+    "com.asana.Asana": {
+      "name": "Asana",
+      "iconSymbol": "checklist",
+      "iconColorHex": "#F06A4D",
+      "urls": [
+        "asana://",
+        "https://apps.apple.com/es/app/asana-gesti%C3%B3n-del-trabajo/id489969512?uo=4"
+      ],
+      "bundleId": "com.asana.Asana",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/2a/c2/462ac2bd-3a0a-2e25-ef1c-59e7a2d7c1f6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/asana-gesti%C3%B3n-del-trabajo/id489969512?uo=4",
+      "genres": [
+        "business",
+        "productivity"
+      ]
+    },
+    "monday://": {
+      "name": "Monday.com",
+      "iconSymbol": "calendar.badge.clock",
+      "iconColorHex": "#0052CC",
+      "urls": [
+        "monday://",
+        "https://monday.com"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/23/ea/fb23ea5b-d992-a4ec-462f-95bd4a6befc8/AppIcon-Monday-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/monday-com-work-platform/id1290128888?uo=4",
+      "bundleId": "com.monday.monday"
+    },
+    "clicked://": {
+      "name": "ClickUp",
+      "iconSymbol": "checkmark.square.fill",
+      "iconColorHex": "#7B68EE",
+      "urls": [
+        "clicked://",
+        "https://app.clickup.com"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/ca/89/80ca89b7-07aa-29b8-deb6-07544ffd1531/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/clickup-tasks-chat-docs-ai/id1535098836?uo=4",
+      "bundleId": "com.clickup.mobile"
+    },
+    "jira://": {
+      "name": "Jira",
+      "iconSymbol": "square.2.layers.3d",
+      "iconColorHex": "#0052CC",
+      "urls": [
+        "jira://",
+        "https://mobile.atlassian.net"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/01/29/480129a0-0283-ec71-2882-febb97ff50d0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/jira-cloud-by-atlassian/id1006972087?uo=4",
+      "bundleId": "com.atlassian.jira.app"
+    },
+    "confluence://": {
+      "name": "Confluence",
+      "iconSymbol": "doc.text.image",
+      "iconColorHex": "#172B4D",
+      "urls": [
+        "confluence://",
+        "https://mobile.atlassian.net"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/e2/0b/e1e20beb-85d3-329e-fb1f-cf8b72141ad9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/confluence-cloud/id1006971684?uo=4",
+      "bundleId": "com.atlassian.confluence.app"
+    },
+    "trello://": {
+      "name": "Trello",
+      "iconSymbol": "square.grid.2x2",
+      "iconColorHex": "#0079BF",
+      "urls": [
+        "trello://",
+        "https://trello.com"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/56/bc/7c56bc0e-8bed-9022-bae4-003ac33f4982/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/trello-organize-anything/id461504587?uo=4",
+      "bundleId": "com.fogcreek.trello"
+    },
+    "Linear-App://": {
+      "name": "Linear",
+      "iconSymbol": "arrow.up.right.square.fill",
+      "iconColorHex": "#5E6AD2",
+      "urls": [
+        "Linear-App://",
+        "https://linear.app"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/45/38/81453861-74f1-eff4-8e1d-6a4ff255d870/Linear-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/linear-mobile/id1645587184?uo=4",
+      "bundleId": "com.linear.ios"
+    },
+    "insta-share://": {
+      "name": "Instacart",
+      "iconSymbol": "bag.fill",
+      "iconColorHex": "#2DD881",
+      "urls": [
+        "insta-share://",
+        "https://www.instacart.com"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/02/ea/e102eab8-29ff-7ea2-cb6e-9e013c639f83/AppIcon-0-0-1x_U007emarketing-0-8-0-0-P3-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/instacart-groceries-food/id545599256?uo=4",
+      "bundleId": "com.instacart"
+    },
+    "whatsapp-business://": {
+      "name": "WhatsApp Business",
+      "iconSymbol": "briefcase.circle.fill",
+      "iconColorHex": "#25D366",
+      "urls": [
+        "whatsapp-business://",
+        "https://business.whatsapp.com"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/35/e3/5635e36d-5725-5206-448b-c95355067e6a/AppIconSMB-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/whatsapp-business/id1386412985?uo=4",
+      "bundleId": "net.whatsapp.WhatsAppSMB"
+    },
+    "telegram-x://": {
+      "name": "Telegram X",
+      "iconSymbol": "paperplane.circle.fill",
+      "iconColorHex": "#2AABEE",
+      "urls": [
+        "telegram-x://",
+        "https://telegram.org"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/4f/f1/114ff141-5fc5-24f4-c548-afc42d4d8283/Telegram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/telegram-messenger/id686449807?uo=4",
+      "bundleId": "ph.telegra.Telegraph"
+    },
+    "zendesk://": {
+      "name": "Zendesk",
+      "iconSymbol": "questionmark.circle.fill",
+      "iconColorHex": "#03363D",
+      "urls": [
+        "zendesk://",
+        "https://www.zendesk.com"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/fe/f7/22fef799-3e4c-4c00-5ceb-f64b4894420d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/zendesk-support/id1174276185?uo=4",
+      "bundleId": "com.zendesk.agent.appstore"
+    },
+    "io.intercom.ios": {
+      "name": "Intercom",
+      "iconSymbol": "bubble.right.fill",
+      "iconColorHex": "#0B3B2D",
+      "urls": [
+        "intercom://",
+        "intercom-messenger://",
+        "https://apps.apple.com/es/app/intercom-conversations/id739927601?uo=4"
+      ],
+      "bundleId": "io.intercom.ios",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/44/7a/0d447a50-fbe0-a872-fbb2-21a738804394/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/intercom-conversations/id739927601?uo=4",
+      "genres": [
+        "business"
+      ]
+    },
+    "com.theRocketScienceGroup.mailChimp": {
+      "name": "Mailchimp",
+      "iconSymbol": "envelope.fill",
+      "iconColorHex": "#FFE01B",
+      "urls": [
+        "mailchimp://",
+        "https://apps.apple.com/es/app/mailchimp-email-marketing/id366794783?uo=4"
+      ],
+      "bundleId": "com.theRocketScienceGroup.mailChimp",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/3a/c5/f13ac50a-3c34-3f5b-3235-9b33653e4d0b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/mailchimp-email-marketing/id366794783?uo=4",
+      "genres": [
+        "business",
+        "productivity"
+      ]
+    },
+    "com.hubspot.CRMAppRelease": {
+      "name": "HubSpot",
+      "iconSymbol": "chart.bar.fill",
+      "iconColorHex": "#FF7A59",
+      "urls": [
+        "hubspot://",
+        "https://apps.apple.com/es/app/hubspot/id1107711722?uo=4"
+      ],
+      "bundleId": "com.hubspot.CRMAppRelease",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/a0/68/5ba06822-1a63-0c90-81c6-64ce8b593dec/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/hubspot/id1107711722?uo=4",
+      "genres": [
+        "business",
+        "productivity"
+      ]
+    },
+    "com.salesforce.chatter": {
+      "name": "Salesforce",
+      "iconSymbol": "chart.line.uptrend.xyaxis",
+      "iconColorHex": "#00A1DF",
+      "urls": [
+        "salesforce://",
+        "https://www.salesforce.com"
+      ],
+      "bundleId": "com.salesforce.chatter",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/03/b1/2c03b13b-940c-801e-633c-72d5c191bd65/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/salesforce/id404249815?uo=4",
+      "genres": [
+        "business",
+        "social-networking"
+      ]
+    },
+    "com.cron.calendar": {
+      "name": "Notion Calendar",
+      "iconSymbol": "calendar.circle.fill",
+      "iconColorHex": "#FFFFFF",
+      "urls": [
+        "notion-calendar://",
+        "https://apps.apple.com/es/app/notion-calendar/id1607562761?uo=4"
+      ],
+      "bundleId": "com.cron.calendar",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/96/28/31962841-cdb2-7fbf-7a1d-91657c447fcd/notion-calendar-0-0-1x_U007ephone-0-1-P3-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/notion-calendar/id1607562761?uo=4",
+      "genres": [
+        "productivity"
+      ]
+    },
+    "com.google.calendar": {
+      "name": "Google Calendar",
+      "iconSymbol": "calendar.circle.fill",
+      "iconColorHex": "#4285F4",
+      "urls": [
+        "googlecalendar://",
+        "google-calendar://",
+        "https://apps.apple.com/es/app/google-calendar/id909319292?uo=4"
+      ],
+      "bundleId": "com.google.calendar",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/21/49/4e2149a7-5793-ecf1-9f84-7f5e0d552667/calendar_2020q4-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/google-calendar/id909319292?uo=4",
+      "genres": [
+        "productivity"
+      ]
+    },
+    "com.microsoft.Office.Outlook": {
+      "name": "Outlook",
+      "iconSymbol": "envelope.open.fill",
+      "iconColorHex": "#0078D4",
+      "urls": [
+        "ms-outlook://",
+        "https://outlook.live.com"
+      ],
+      "bundleId": "com.microsoft.Office.Outlook",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/13/33/98133310-cd05-1aef-a41c-b7eb9e698187/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/microsoft-outlook/id951937596?uo=4",
+      "genres": [
+        "productivity",
+        "business"
+      ]
+    },
+    "com.google.Gmail": {
+      "name": "Gmail",
+      "iconSymbol": "envelope.fill",
+      "iconColorHex": "#EA4335",
+      "urls": [
+        "googlegmail://",
+        "https://mail.google.com"
+      ],
+      "bundleId": "com.google.Gmail",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/93/5c/6a935c3f-84f6-38d2-8221-1e4449707de6/logo_gmail_2020q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/gmail-el-correo-de-google/id422689480?uo=4",
+      "genres": [
+        "productivity",
+        "social-networking"
+      ],
+      "urlScheme": "googlegmail://"
+    },
+    "com.readdle.smartemail": {
+      "name": "Spark",
+      "iconSymbol": "bolt.fill",
+      "iconColorHex": "#FFC400",
+      "urls": [
+        "spark://",
+        "https://apps.apple.com/es/app/spark-mail-correo-inteligente/id997102246?uo=4"
+      ],
+      "bundleId": "com.readdle.smartemail",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/32/70/413270e5-cff1-fc1c-ea62-d64b43a22d23/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/spark-mail-correo-inteligente/id997102246?uo=4",
+      "genres": [
+        "productivity",
+        "utilities"
+      ]
+    },
+    "ch.protonmail.protonmail": {
+      "name": "ProtonMail",
+      "iconSymbol": "lock.fill",
+      "iconColorHex": "#6D4AFF",
+      "urls": [
+        "protonmail://",
+        "https://proton.me/mail"
+      ],
+      "bundleId": "ch.protonmail.protonmail",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/da/40/34da408f-12df-05fb-b570-6276fa38cf82/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/proton-mail-correo-privado/id979659905?uo=4",
+      "genres": [
+        "productivity",
+        "business"
+      ]
+    },
+    "de.tutao.tutanota": {
+      "name": "Tutanota",
+      "iconSymbol": "lock.shield.fill",
+      "iconColorHex": "#9F4B7D",
+      "urls": [
+        "tutanota://",
+        "https://apps.apple.com/es/app/correos-y-calendario-tuta/id922429609?uo=4"
+      ],
+      "bundleId": "de.tutao.tutanota",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/d2/7e/c6d27e4a-f041-6739-d629-2337dee8cf67/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/correos-y-calendario-tuta/id922429609?uo=4",
+      "genres": [
+        "productivity",
+        "social-networking"
+      ]
+    },
+    "vn.com.vng.zingalo": {
+      "name": "Zalo",
+      "iconSymbol": "bubble.left.fill",
+      "iconColorHex": "#0084FF",
+      "urls": [
+        "zalo://",
+        "https://apps.apple.com/es/app/zalo/id579523206?uo=4"
+      ],
+      "bundleId": "vn.com.vng.zingalo",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/d2/fe/8dd2fecc-c07e-00d4-c902-5c5606fed569/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/zalo/id579523206?uo=4",
+      "genres": [
+        "social-networking",
+        "entertainment"
+      ]
+    },
+    "com.tencent.mqq": {
+      "name": "QQ",
+      "iconSymbol": "bubble.left.fill",
+      "iconColorHex": "#09B83E",
+      "urls": [
+        "qq://",
+        "https://apps.apple.com/es/app/qq/id444934666?uo=4"
+      ],
+      "bundleId": "com.tencent.mqq",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/51/4d/06514d45-fcb1-91c6-359b-3177b7f87050/AppIcon-1-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/qq/id444934666?uo=4",
+      "genres": [
+        "social-networking",
+        "entertainment"
+      ]
+    },
+    "com.jiangjia.gif": {
+      "name": "Kuaishou",
+      "iconSymbol": "play.fill",
+      "iconColorHex": "#FFE200",
+      "urls": [
+        "kuaishou://",
+        "https://apps.apple.com/es/app/%E5%BF%AB%E6%89%8B/id440948110?uo=4"
+      ],
+      "bundleId": "com.jiangjia.gif",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/b9/82/16b98202-90ca-bcec-d31e-fe3a105d127d/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/%E5%BF%AB%E6%89%8B/id440948110?uo=4",
+      "genres": [
+        "photo-video",
+        "social-networking"
+      ]
+    },
+    "com.bilibili.bilicomic": {
+      "name": "Bilibili",
+      "iconSymbol": "play.circle.fill",
+      "iconColorHex": "#FB7299",
+      "urls": [
+        "bilibili://",
+        "https://apps.apple.com/es/app/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%BC%AB%E7%94%BB-%E7%9C%8B%E6%BC%AB%E7%94%BB%E5%B0%8F%E8%AF%B4%E5%A4%A7%E5%85%A8/id1426252715?uo=4"
+      ],
+      "bundleId": "com.bilibili.bilicomic",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/ed/53/12ed53bb-807c-a980-2ed2-828739037438/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%BC%AB%E7%94%BB-%E7%9C%8B%E6%BC%AB%E7%94%BB%E5%B0%8F%E8%AF%B4%E5%A4%A7%E5%85%A8/id1426252715?uo=4",
+      "genres": [
+        "books",
+        "entertainment"
+      ]
+    },
+    "com.xingin.discover": {
+      "name": "Xiaohongshu",
+      "iconSymbol": "square.2.layers.3d.fill",
+      "iconColorHex": "#FF1A1A",
+      "urls": [
+        "xiaohongshu://",
+        "https://apps.apple.com/es/app/rednote/id741292507?uo=4"
+      ],
+      "bundleId": "com.xingin.discover",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/d3/57/e9d35704-4573-bc1a-5e95-5d39b560e9ae/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/rednote/id741292507?uo=4",
+      "genres": [
+        "social-networking",
+        "shopping"
+      ]
+    },
+    "com.okta.mobile": {
+      "name": "Okta",
+      "iconSymbol": "person.circle.fill",
+      "iconColorHex": "#0066CC",
+      "urls": [
+        "okta://",
+        "https://www.okta.com"
+      ],
+      "bundleId": "com.okta.mobile",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/eb/d0/70ebd06a-9916-d171-80ec-186d1332f85b/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/okta-verify/id490179405?uo=4",
+      "genres": [
+        "business",
+        "productivity"
+      ]
+    },
+    "com.auth0.guardian": {
+      "name": "Auth0",
+      "iconSymbol": "person.badge.key.fill",
+      "iconColorHex": "#EB5424",
+      "urls": [
+        "auth0://",
+        "https://apps.apple.com/es/app/auth0-guardian/id1093447833?uo=4"
+      ],
+      "bundleId": "com.auth0.guardian",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/1a/f9/2f1af9b8-624c-dd48-8f45-32f45ad24eb8/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/auth0-guardian/id1093447833?uo=4",
+      "genres": [
+        "utilities"
+      ]
+    },
+    "com.revcel.mobile": {
+      "name": "Vercel",
+      "iconSymbol": "square.fill",
+      "iconColorHex": "#000000",
+      "urls": [
+        "vercel://",
+        "https://apps.apple.com/es/app/rev-for-vercel/id6740740427?uo=4"
+      ],
+      "bundleId": "com.revcel.mobile",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/1e/17/2d1e17f4-8d8e-5cb3-145a-4e2b776105a4/icon-ios-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/rev-for-vercel/id6740740427?uo=4",
+      "genres": [
+        "developer-tools",
+        "utilities"
+      ]
+    },
+    "com.dashify.mobile": {
+      "name": "Netlify",
+      "iconSymbol": "network",
+      "iconColorHex": "#00C7B7",
+      "urls": [
+        "netlify://",
+        "https://apps.apple.com/es/app/dashify-for-netlify-com/id6742102359?uo=4"
+      ],
+      "bundleId": "com.dashify.mobile",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/06/fa/bc06fa5a-530e-bdec-7e6a-a2c8860d8e71/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/dashify-for-netlify-com/id6742102359?uo=4",
+      "genres": [
+        "developer-tools",
+        "utilities"
+      ]
+    },
+    "com.kolosek.herokumng": {
+      "name": "Heroku",
+      "iconSymbol": "cloud.fill",
+      "iconColorHex": "#430098",
+      "urls": [
+        "heroku://",
+        "https://apps.apple.com/es/app/herokumng/id1479869199?uo=4"
+      ],
+      "bundleId": "com.kolosek.herokumng",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c9/3f/4f/c93f4fdc-89da-a886-6938-b75518fe1faf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/herokumng/id1479869199?uo=4",
+      "genres": [
+        "utilities"
+      ]
+    },
+    "com.amazonaws.mobileConsole": {
+      "name": "AWS",
+      "iconSymbol": "cloud.fill",
+      "iconColorHex": "#FF9900",
+      "urls": [
+        "aws://",
+        "https://apps.apple.com/es/app/aws-console/id580990573?uo=4"
+      ],
+      "bundleId": "com.amazonaws.mobileConsole",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/9b/05/2b9b053e-0cef-c070-e436-955dade229e2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/aws-console/id580990573?uo=4",
+      "genres": [
+        "business",
+        "productivity"
+      ]
+    },
+    "com.microsoft.azure": {
+      "name": "Microsoft Azure",
+      "iconSymbol": "cloud.fill",
+      "iconColorHex": "#0078D4",
+      "urls": [
+        "azure://",
+        "https://azure.microsoft.com"
+      ],
+      "bundleId": "com.microsoft.azure",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/44/50/774450a9-74c5-b32c-121d-e3976ebca3cb/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/microsoft-azure/id1219013620?uo=4",
+      "genres": [
+        "business",
+        "productivity"
+      ]
+    },
+    "com.google.Vespa": {
+      "name": "Google Cloud",
+      "iconSymbol": "cloud.fill",
+      "iconColorHex": "#4285F4",
+      "urls": [
+        "gcp://",
+        "https://apps.apple.com/es/app/google-cloud/id1005120814?uo=4"
+      ],
+      "bundleId": "com.google.Vespa",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/14/72/751472ae-7fa9-3472-7b7c-83130384742d/logo_google_cloud_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/google-cloud/id1005120814?uo=4",
+      "genres": [
+        "productivity",
+        "utilities"
+      ]
+    },
+    "com.digitalocean.mobile": {
+      "name": "DigitalOcean",
+      "iconSymbol": "servers",
+      "iconColorHex": "#0080FF",
+      "urls": [
+        "digital-ocean://",
+        "https://apps.apple.com/es/app/digital-ocean-mobile-ocean/id6748593720?uo=4"
+      ],
+      "bundleId": "com.digitalocean.mobile",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/07/d9/5507d932-05aa-858d-fd01-3eb99e402793/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/es/app/digital-ocean-mobile-ocean/id6748593720?uo=4",
+      "genres": [
+        "developer-tools",
+        "utilities"
+      ]
+    },
+    "com.EdenredUsaBenefits": {
+      "name": "Edenred Benefits",
+      "iconSymbol": "creditcard.fill",
+      "iconColorHex": "#E40613",
+      "urls": [
+        "edenred://",
+        "https://empleados.edenred.es/"
+      ],
+      "bundleId": "com.EdenredUsaBenefits",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/f0/cb/34f0cb4d-3420-c66c-9e33-722877329f7a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/edenred-benefits/id1523624788?uo=4",
+      "genres": [
+        "business",
+        "productivity"
+      ]
+    },
+    "com.google.chrome.ios": {
+      "name": "Google Chrome",
+      "iconSymbol": "globe",
+      "iconColorHex": "#4285F4",
+      "urls": [
+        "googlechrome://",
+        "https://www.google.com"
+      ],
+      "bundleId": "com.google.chrome.ios",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/b3/4c/68b34c70-fed7-eefb-de9b-f2b364fb7970/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/google-chrome/id535886823?uo=4",
+      "genres": [
+        "utilities",
+        "productivity"
+      ]
+    },
+    "org.mozilla.ios.Firefox": {
+      "name": "Firefox: Private Web Browser",
+      "iconSymbol": "flame.fill",
+      "iconColorHex": "#FF7139",
+      "urls": [
+        "firefox://",
+        "https://www.mozilla.org"
+      ],
+      "bundleId": "org.mozilla.ios.Firefox",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/3f/d3/bc3fd379-b72a-0f0b-7fcb-302b13c8fa15/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/firefox-private-web-browser/id989804926?uo=4",
+      "genres": [
+        "utilities",
+        "productivity"
+      ]
+    },
+    "com.brave.ios.browser": {
+      "name": "Brave Browser & Search Engine",
+      "iconSymbol": "shield.fill",
+      "iconColorHex": "#FB542B",
+      "urls": [
+        "brave://",
+        "https://brave.com"
+      ],
+      "bundleId": "com.brave.ios.browser",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/cc/23/3bcc2312-3e5a-62a8-09d3-850c29404759/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/brave-browser-search-engine/id1052879175?uo=4",
+      "genres": [
+        "utilities",
+        "productivity"
+      ]
+    },
+    "com.duckduckgo.mobile.ios": {
+      "name": "DuckDuckGo, Duck.ai, & VPN",
+      "iconSymbol": "hand.raised.fill",
+      "iconColorHex": "#DE5833",
+      "urls": [
+        "ddgLaunch://",
+        "https://duckduckgo.com"
+      ],
+      "bundleId": "com.duckduckgo.mobile.ios",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/f1/25/cbf12566-54cb-fb85-6e62-44fae2864c35/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/duckduckgo-duck-ai-vpn/id663592361?uo=4",
+      "genres": [
+        "utilities",
+        "productivity"
+      ]
+    },
+    "com.1password.1password": {
+      "name": "1Password: Password Manager",
+      "iconSymbol": "lock.fill",
+      "iconColorHex": "#0F6FFF",
+      "urls": [
+        "onepassword://",
+        "https://1password.com"
+      ],
+      "bundleId": "com.1password.1password",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/c7/12/dbc71263-35ca-7f76-9862-bb1883f911ea/AppIcon-0-0-1x_U007epad-0-8-0-P3-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/1password-password-manager/id1511601750?uo=4",
+      "genres": [
+        "productivity",
+        "utilities"
+      ]
+    },
+    "com.lastpass.ilastpass": {
+      "name": "LastPass Password Manager",
+      "iconSymbol": "lock.shield.fill",
+      "iconColorHex": "#CC0000",
+      "urls": [
+        "lastpass://",
+        "https://www.lastpass.com"
+      ],
+      "bundleId": "com.lastpass.ilastpass",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/db/e7/74dbe7c6-fb93-7284-5b7d-2b217768744f/AppIcon_distribution-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/lastpass-password-manager/id324613447?uo=4",
+      "genres": [
+        "productivity",
+        "utilities"
+      ]
+    },
+    "com.squareup.cash": {
+      "name": "Cash App",
+      "iconSymbol": "dollarsign.square.fill",
+      "iconColorHex": "#00D54B",
+      "urls": [
+        "squarecash://",
+        "https://cash.app"
+      ],
+      "bundleId": "com.squareup.cash",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/c3/c8/68c3c8a9-350f-a0b0-9017-c75d592b7579/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/cash-app/id711923939?uo=4",
+      "genres": [
+        "finance",
+        "business"
+      ]
+    },
+    "com.facebook.Messenger": {
+      "name": "Messenger",
+      "iconSymbol": "bubble.left.fill",
+      "iconColorHex": "#0099FF",
+      "urls": [
+        "fb-messenger://",
+        "https://www.messenger.com"
+      ],
+      "bundleId": "com.facebook.Messenger",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/e8/4c/bde84c1b-5280-dc66-07d5-f02eb7c8d2ab/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/messenger/id454638411?uo=4",
+      "genres": [
+        "social-networking",
+        "productivity"
+      ]
+    },
+    "com.tumblr.tumblr": {
+      "name": "Tumblr: Social Media & Art",
+      "iconSymbol": "t.square.fill",
+      "iconColorHex": "#35465C",
+      "urls": [
+        "tumblr://",
+        "https://www.tumblr.com"
+      ],
+      "bundleId": "com.tumblr.tumblr",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/18/9c/18189ca8-7ab8-d01e-302b-9fa6f4bab5b1/TumblrIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/tumblr-social-media-art/id305343404?uo=4",
+      "genres": [
+        "social-networking",
+        "lifestyle"
+      ]
+    },
+    "com.hulu.plus": {
+      "name": "Hulu: Stream TV shows & movies",
+      "iconSymbol": "play.tv.fill",
+      "iconColorHex": "#1CE783",
+      "urls": [
+        "hulu://",
+        "https://www.hulu.com"
+      ],
+      "bundleId": "com.hulu.plus",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/5f/b4/a95fb4cc-2005-1dbc-befa-a697ed82b960/HuluAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/hulu-stream-tv-shows-movies/id376510438?uo=4",
+      "genres": [
+        "entertainment",
+        "lifestyle"
+      ]
+    },
+    "com.vimeo": {
+      "name": "Vimeo",
+      "iconSymbol": "play.circle.fill",
+      "iconColorHex": "#1AB7EA",
+      "urls": [
+        "vimeo://",
+        "https://vimeo.com"
+      ],
+      "bundleId": "com.vimeo",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/23/82/4a238282-07d4-cf9c-42fc-17e44d6d0a99/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/vimeo/id425194759?uo=4",
+      "genres": [
+        "photo-video",
+        "entertainment"
+      ]
+    },
+    "org.videolan.vlc-ios": {
+      "name": "VLC media player",
+      "iconSymbol": "play.rectangle.fill",
+      "iconColorHex": "#FF7F00",
+      "urls": [
+        "vlc://",
+        "https://www.videolan.org/vlc"
+      ],
+      "bundleId": "org.videolan.vlc-ios",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/86/d0/0286d036-e740-5629-0cef-864f357e4abe/AppIcon-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/vlc-media-player/id650377962?uo=4",
+      "genres": [
+        "photo-video",
+        "entertainment"
+      ]
+    },
+    "com.imdb.imdb": {
+      "name": "IMDb: Movies & TV Shows",
+      "iconSymbol": "film.fill",
+      "iconColorHex": "#F5C518",
+      "urls": [
+        "imdb://",
+        "https://www.imdb.com"
+      ],
+      "bundleId": "com.imdb.imdb",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/77/e8/4877e862-4566-d71b-66f6-8b32567e0120/IMDbAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/imdb-movies-tv-shows/id342792525?uo=4",
+      "genres": [
+        "entertainment",
+        "lifestyle"
+      ]
+    },
+    "fm.overcast.overcast": {
+      "name": "Overcast",
+      "iconSymbol": "headphones",
+      "iconColorHex": "#FC7E0F",
+      "urls": [
+        "overcast://",
+        "https://overcast.fm"
+      ],
+      "bundleId": "fm.overcast.overcast",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/a2/da/f7a2da85-7911-4c34-99a5-cdfcc14f1e8b/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/overcast/id888422857?uo=4",
+      "genres": [
+        "news",
+        "entertainment"
+      ]
+    },
+    "co.supertop.Castro-2": {
+      "name": "Castro: Podcast App & Player",
+      "iconSymbol": "headphones.circle.fill",
+      "iconColorHex": "#00B265",
+      "urls": [
+        "castro2://",
+        "https://castro.fm"
+      ],
+      "bundleId": "co.supertop.Castro-2",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/7b/13/ba7b13c6-b399-e652-c754-32a1b80d61dd/DefaultIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/castro-podcast-app-player/id1080840241?uo=4",
+      "genres": [
+        "news",
+        "entertainment"
+      ]
+    },
+    "com.marcoarment.instapaperpro": {
+      "name": "Instapaper",
+      "iconSymbol": "text.page.fill",
+      "iconColorHex": "#1F1F1F",
+      "urls": [
+        "instapaper://",
+        "https://www.instapaper.com"
+      ],
+      "bundleId": "com.marcoarment.instapaperpro",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/25/b7/af25b71f-5c72-61fc-9de5-a6bba494b64f/AppIcon-0-0-1x_U007epad-0-8-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/instapaper/id288545208?uo=4",
+      "genres": [
+        "news",
+        "productivity"
+      ]
+    },
+    "com.goodreads.Goodreads": {
+      "name": "Goodreads: Book Tracker & More",
+      "iconSymbol": "book.fill",
+      "iconColorHex": "#553B08",
+      "urls": [
+        "goodreads://",
+        "https://www.goodreads.com"
+      ],
+      "bundleId": "com.goodreads.Goodreads",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/00/65/f20065fe-a83b-fd20-b10e-9a13cf3314aa/PolarisAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/goodreads-book-tracker-more/id355833469?uo=4",
+      "genres": [
+        "books",
+        "social-networking"
+      ]
+    },
+    "com.omnigroup.OmniFocus4": {
+      "name": "OmniFocus 4",
+      "iconSymbol": "checkmark.circle.fill",
+      "iconColorHex": "#6E2B8B",
+      "urls": [
+        "omnifocus://",
+        "https://www.omnigroup.com/omnifocus"
+      ],
+      "bundleId": "com.omnigroup.OmniFocus4",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/17/d3/c717d3a1-caff-eb46-8992-1de647987fa6/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/omnifocus-4/id1542143627?uo=4",
+      "genres": [
+        "productivity",
+        "lifestyle"
+      ]
+    },
+    "co.visualsupply.cam": {
+      "name": "VSCO: Photo Editor & Presets",
+      "iconSymbol": "camera.filters",
+      "iconColorHex": "#000000",
+      "urls": [
+        "vsco://",
+        "https://www.vsco.co"
+      ],
+      "bundleId": "co.visualsupply.cam",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/5c/1c/f95c1c00-4b93-d703-5779-b45c66e09de4/app-icon-production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/vsco-photo-editor-presets/id588013838?uo=4",
+      "genres": [
+        "photo-video",
+        "lifestyle"
+      ]
+    },
+    "com.yahoo.flickr": {
+      "name": "Flickr",
+      "iconSymbol": "photo.fill",
+      "iconColorHex": "#FF0084",
+      "urls": [
+        "flickr://",
+        "https://www.flickr.com"
+      ],
+      "bundleId": "com.yahoo.flickr",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/9f/4e/ff9f4e35-279d-1bef-f7a8-f64d6def3ff5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/flickr/id328407587?uo=4",
+      "genres": [
+        "photo-video",
+        "social-networking"
+      ]
+    },
+    "com.google.photos": {
+      "name": "Google Photos: Backup & Edit",
+      "iconSymbol": "photo.on.rectangle",
+      "iconColorHex": "#4285F4",
+      "urls": [
+        "googlephotos://",
+        "https://photos.google.com"
+      ],
+      "bundleId": "com.google.photos",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/01/6a/d2016afe-5c1e-1e0d-373f-b052a6a5dd9f/Photos-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/google-photos-backup-edit/id962194608?uo=4",
+      "genres": [
+        "photo-video"
+      ]
+    },
+    "com.waze.iphone": {
+      "name": "Waze Navigation & Live Traffic",
+      "iconSymbol": "car.fill",
+      "iconColorHex": "#33CCFF",
+      "urls": [
+        "waze://",
+        "https://waze.com"
+      ],
+      "bundleId": "com.waze.iphone",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/dd/91/f5dd9135-99e4-970a-f692-139062d5481b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/waze-navigation-live-traffic/id323229106?uo=4",
+      "genres": [
+        "navigation",
+        "travel"
+      ]
+    },
+    "doordash.DoorDashConsumer": {
+      "name": "DoorDash: Food, Grocery, More",
+      "iconSymbol": "bag.fill",
+      "iconColorHex": "#FF3008",
+      "urls": [
+        "doordash://",
+        "https://www.doordash.com"
+      ],
+      "bundleId": "doordash.DoorDashConsumer",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/a6/e5/1da6e527-8b0d-c488-cbff-f0d87e9bc600/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/doordash-food-grocery-more/id719972451?uo=4",
+      "genres": [
+        "food-drink",
+        "lifestyle"
+      ]
+    },
+    "com.forestapp.Forest": {
+      "name": "Forest: Focus for Productivity",
+      "iconSymbol": "leaf.fill",
+      "iconColorHex": "#5BAD72",
+      "urls": [
+        "forest://",
+        "https://www.forestapp.cc"
+      ],
+      "bundleId": "com.forestapp.Forest",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/eb/b1/abebb16d-b929-b768-cbe5-f405287cfe34/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/forest-focus-for-productivity/id866450515?uo=4",
+      "genres": [
+        "productivity",
+        "lifestyle"
+      ]
+    },
+    "com.getdropbox.Dropbox": {
+      "name": "Dropbox: Cloud Storage Backup",
+      "iconSymbol": "folder.fill",
+      "iconColorHex": "#0061FF",
+      "urls": [
+        "dbapi-1://",
+        "https://www.dropbox.com"
+      ],
+      "bundleId": "com.getdropbox.Dropbox",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/d0/61/aed061dd-31e5-9985-e59b-b5c6ad26945d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/dropbox-cloud-storage-backup/id327630330?uo=4",
+      "genres": [
+        "productivity",
+        "utilities"
+      ]
+    },
+    "it.twsweb.Nextcloud": {
+      "name": "Nextcloud",
+      "iconSymbol": "cloud.fill",
+      "iconColorHex": "#0082C9",
+      "urls": [
+        "nextcloud://",
+        "https://nextcloud.com"
+      ],
+      "bundleId": "it.twsweb.Nextcloud",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/c3/c8/18c3c867-b3ac-c837-f202-b71f2ed3b9ff/AppIcon-0-0-1x_U007emarketing-0-0-0-11-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/nextcloud/id1125420102?uo=4",
+      "genres": [
+        "productivity"
+      ]
+    },
+    "com.ifttt.ifttt": {
+      "name": "IFTTT - Automate work and home",
+      "iconSymbol": "bolt.fill",
+      "iconColorHex": "#000000",
+      "urls": [
+        "ifttt://",
+        "https://ifttt.com"
+      ],
+      "bundleId": "com.ifttt.ifttt",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/52/91/d9529123-2f6f-3bd4-228b-4848b80b06d5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/ifttt-automate-work-and-home/id660944635?uo=4",
+      "genres": [
+        "productivity",
+        "utilities"
+      ]
+    },
+    "com.ookla.speedtest": {
+      "name": "Speedtest by Ookla",
+      "iconSymbol": "gauge.with.dots.needle.bottom.50percent",
+      "iconColorHex": "#141526",
+      "urls": [
+        "speedtest://",
+        "https://www.speedtest.net"
+      ],
+      "bundleId": "com.ookla.speedtest",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/0d/aa/b40daa72-4b54-85df-0d4e-7f227d413738/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/speedtest-by-ookla/id300704847?uo=4",
+      "genres": [
+        "utilities",
+        "reference"
+      ]
+    },
+    "com.google.Translate": {
+      "name": "Google Translate",
+      "iconSymbol": "character.bubble.fill",
+      "iconColorHex": "#4285F4",
+      "urls": [
+        "googletranslate://",
+        "https://translate.google.com"
+      ],
+      "bundleId": "com.google.Translate",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/a1/65/36a1651c-d7b5-7928-dd15-a2b273460470/TranslateApp-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/google-translate/id414706506?uo=4",
+      "genres": [
+        "reference",
+        "travel"
+      ]
+    },
+    "com.bloomberg.Bloomberg": {
+      "name": "Bloomberg: Business News Daily",
+      "iconSymbol": "chart.line.uptrend.xyaxis",
+      "iconColorHex": "#FF1A1A",
+      "urls": [
+        "bloomberg://",
+        "https://www.bloomberg.com"
+      ],
+      "bundleId": "com.bloomberg.Bloomberg",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/fc/28/f5fc2848-6b9b-3ef0-6932-9b92bcba75d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/bloomberg-business-news-daily/id281941097?uo=4",
+      "genres": [
+        "news",
+        "finance"
+      ]
+    },
+    "com.ancestry.Tree-To-Go": {
+      "name": "Ancestry: Family History & DNA",
+      "iconSymbol": "person.3.fill",
+      "iconColorHex": "#007B40",
+      "urls": [
+        "ancestry://",
+        "https://www.ancestry.com"
+      ],
+      "bundleId": "com.ancestry.Tree-To-Go",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/c1/4a/c8c14a25-958e-3dd6-148a-fe4fdba59f28/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/ancestry-family-history-dna/id349554263?uo=4",
+      "genres": [
+        "reference",
+        "productivity"
+      ]
+    },
+    "com.fandango.fandango": {
+      "name": "Fandango",
+      "iconSymbol": "ticket.fill",
+      "iconColorHex": "#FF6600",
+      "urls": [
+        "fandango://",
+        "https://www.fandango.com"
+      ],
+      "bundleId": "com.fandango.fandango",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/62/3a/93623aff-e348-fc3a-15d6-95cef9e84ff3/app_icon_fandango-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/fandango-get-movie-tickets/id307906541",
+      "genres": [
+        "entertainment",
+        "lifestyle"
+      ]
+    },
+    "com.viessmann.care": {
+      "name": "ViCare",
+      "iconSymbol": "flame.fill",
+      "iconColorHex": "#0070CD",
+      "urls": [
+        "vicare://",
+        "https://apps.apple.com/us/app/vicare/id964468260"
+      ],
+      "bundleId": "com.viessmann.care",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/10/cf/7010cf77-db60-016b-d7a0-d32cf16132bc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/vicare/id964468260",
+      "genres": [
+        "lifestyle",
+        "productivity"
+      ]
+    },
+    "com.apple.AppStore": {
+      "name": "App Store",
+      "iconSymbol": "bag.fill",
+      "iconColorHex": "#1E90FF",
+      "urls": [
+        "itms-apps://",
+        "https://apps.apple.com"
+      ],
+      "bundleId": "com.apple.AppStore",
+      "genres": [
+        "utilities"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/d0/4c/b2d04cab-0f1d-0bdd-fa9b-c4bfe09dfa83/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/apple-store/id375380948?uo=4"
+    },
+    "com.apple.news": {
+      "name": "Apple News",
+      "iconSymbol": "newspaper.fill",
+      "iconColorHex": "#FF3B30",
+      "urls": [
+        "applenews://",
+        "https://apple.com/news"
+      ],
+      "bundleId": "com.apple.news",
+      "genres": [
+        "news"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/4f/03/614f03bf-3926-a358-4cfc-09456dd55631/news-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/apple-news/id1066498020?uo=4"
+    },
+    "com.apple.weather": {
+      "name": "Weather",
+      "iconSymbol": "cloud.sun.fill",
+      "iconColorHex": "#70B7FF",
+      "urls": [
+        "weather://",
+        "https://apps.apple.com/app/id1069513131"
+      ],
+      "bundleId": "com.apple.weather",
+      "genres": [
+        "utilities"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/7e/ee/0e7eeec9-8436-eb79-99a5-f2e92803914d/weather-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/weather/id1069513131?uo=4"
+    },
+    "com.apple.mobilecal": {
+      "name": "Calendar",
+      "iconSymbol": "calendar",
+      "iconColorHex": "#FF3B30",
+      "urls": [
+        "calshow://",
+        "x-apple-calevent://"
+      ],
+      "bundleId": "com.apple.mobilecal",
+      "genres": [
+        "productivity"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/79/e0/5879e09e-20ac-a4c1-80e1-5669247cad4c/calendar-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/calendar/id1108185179?uo=4"
+    },
+    "com.apple.MobileAddressBook": {
+      "name": "Contacts",
+      "iconSymbol": "person.crop.circle.fill",
+      "iconColorHex": "#34C759",
+      "urls": [
+        "contacts://"
+      ],
+      "bundleId": "com.apple.MobileAddressBook",
+      "genres": [
+        "utilities"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/e0/9d/c3e09d8c-fb97-f0be-8463-b011f602c53a/contacts-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/contacts/id1069512615?uo=4"
+    },
+    "com.apple.facetime": {
+      "name": "FaceTime",
+      "iconSymbol": "video.fill",
+      "iconColorHex": "#34C759",
+      "urls": [
+        "facetime://",
+        "facetime-audio://"
+      ],
+      "bundleId": "com.apple.facetime",
+      "genres": [
+        "social-networking"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/11/89/9a11899c-f0fb-c22b-2c41-a3c2540abf5f/facetime-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/facetime/id1110145091?uo=4"
+    },
+    "com.apple.DocumentsApp": {
+      "name": "Files",
+      "iconSymbol": "folder.fill",
+      "iconColorHex": "#2C7FDB",
+      "urls": [
+        "shareddocuments://"
+      ],
+      "bundleId": "com.apple.DocumentsApp",
+      "genres": [
+        "productivity"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/a1/e7/cfa1e733-abf2-2a89-394f-1de4a5043743/files-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/files/id1232058109?uo=4"
+    },
+    "com.apple.mobilegarageband": {
+      "name": "GarageBand",
+      "iconSymbol": "guitars",
+      "iconColorHex": "#FF9500",
+      "urls": [
+        "garageband://",
+        "https://apps.apple.com/app/id408709785"
+      ],
+      "bundleId": "com.apple.mobilegarageband",
+      "genres": [
+        "music"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/b3/a4/07b3a4b9-5372-25d8-78be-b89ea37c9cc9/AppIcon-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/garageband/id408709785?uo=4"
+    },
+    "com.apple.iBooks": {
+      "name": "Books",
+      "iconSymbol": "book.fill",
+      "iconColorHex": "#FF9500",
+      "urls": [
+        "ibooks://",
+        "https://apps.apple.com/app/id364709193"
+      ],
+      "bundleId": "com.apple.iBooks",
+      "genres": [
+        "books"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/29/87/fc29870e-93f7-1c92-9805-c21f1679f245/books-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/apple-books/id364709193?uo=4"
+    },
+    "com.apple.iMovie": {
+      "name": "iMovie",
+      "iconSymbol": "camera.fill",
+      "iconColorHex": "#6AC4DC",
+      "urls": [
+        "imovie://",
+        "https://apps.apple.com/app/id377298193"
+      ],
+      "bundleId": "com.apple.iMovie",
+      "genres": [
+        "photo-video"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/cc/74/0ecc74b6-54f6-f43b-b3d9-e2ba1d81ebc6/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/imovie/id377298193?uo=4"
+    },
+    "com.apple.Maps": {
+      "name": "Maps",
+      "iconSymbol": "map.fill",
+      "iconColorHex": "#34C759",
+      "urls": [
+        "maps://",
+        "https://maps.apple.com"
+      ],
+      "bundleId": "com.apple.Maps",
+      "genres": [
+        "navigation"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/40/ea/4a40ea55-14c6-81a4-1ddd-aa2f8481f518/maps-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/apple-maps/id915056765?uo=4"
+    },
+    "com.apple.mobilemail": {
+      "name": "Mail",
+      "iconSymbol": "envelope.fill",
+      "iconColorHex": "#1E90FF",
+      "urls": [
+        "message://",
+        "mailto:"
+      ],
+      "bundleId": "com.apple.mobilemail",
+      "genres": [
+        "productivity"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/a0/8c/cfa08c8a-5789-d605-a3cb-760ab70d52e1/mail-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/mail/id1108187098?uo=4"
+    },
+    "com.apple.mobilenotes": {
+      "name": "Notes",
+      "iconSymbol": "note.text",
+      "iconColorHex": "#FFD60A",
+      "urls": [
+        "mobilenotes://"
+      ],
+      "bundleId": "com.apple.mobilenotes",
+      "genres": [
+        "productivity"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/85/52/96855209-27d3-bfb0-0516-105a2223ef50/notes-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/notes/id1110145109?uo=4"
+    },
+    "com.apple.podcasts": {
+      "name": "Podcasts",
+      "iconSymbol": "mic.fill",
+      "iconColorHex": "#8E44AD",
+      "urls": [
+        "podcasts://",
+        "https://podcasts.apple.com"
+      ],
+      "bundleId": "com.apple.podcasts",
+      "genres": [
+        "entertainment"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/ad/ff/a2adff60-629b-5dbd-117d-82dede11f26b/podcasts-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/apple-podcasts/id525463029?uo=4"
+    },
+    "com.apple.mobilephone": {
+      "name": "Phone",
+      "iconSymbol": "phone.fill",
+      "iconColorHex": "#34C759",
+      "urls": [
+        "tel://"
+      ],
+      "bundleId": "com.apple.mobilephone",
+      "genres": [
+        "utilities"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/2a/e1/462ae1c9-9347-efd0-5e99-41e7f636e3f7/phone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/phone/id1146562108?uo=4"
+    },
+    "com.apple.mobileslideshow": {
+      "name": "Photos",
+      "iconSymbol": "photo.fill",
+      "iconColorHex": "#FF9500",
+      "urls": [
+        "photos-redirect://"
+      ],
+      "bundleId": "com.apple.mobileslideshow",
+      "genres": [
+        "photo-video"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/c2/8e/a4c28eea-f904-db56-ff8f-8d51dd9c0d6e/photos-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/photos/id1584215428?uo=4"
+    },
+    "com.apple.shortcuts": {
+      "name": "Shortcuts",
+      "iconSymbol": "square.grid.2x2.fill",
+      "iconColorHex": "#8E44AD",
+      "urls": [
+        "shortcuts://",
+        "https://apps.apple.com/app/id1462947752"
+      ],
+      "bundleId": "com.apple.shortcuts",
+      "genres": [
+        "productivity"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/0c/b4/7a0cb40c-4ed2-4d65-fd2f-45b3584cf3d2/shortcuts-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/shortcuts/id1462947752?uo=4"
+    },
+    "com.apple.Preferences": {
+      "name": "Settings",
+      "iconSymbol": "gearshape.fill",
+      "iconColorHex": "#8E8E93",
+      "urls": [
+        "App-prefs://",
+        "prefs://"
+      ],
+      "bundleId": "com.apple.Preferences",
+      "genres": [
+        "utilities"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/12/96/9b1296be-fb52-3e6e-a753-7e8a2ea73aba/AppIcon-0-0-1x_U007ephone-0-85-220.png/100x100bb.jpg"
+    },
+    "com.apple.VoiceMemos": {
+      "name": "Voice Memos",
+      "iconSymbol": "waveform",
+      "iconColorHex": "#FF3B30",
+      "urls": [
+        "voicememos://"
+      ],
+      "bundleId": "com.apple.VoiceMemos",
+      "genres": [
+        "utilities"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/24/32/52243281-b115-79d1-bab3-3cb135bcc69f/voicememos-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/voice-memos/id1069512134?uo=4"
+    },
+    "com.apple.Passbook": {
+      "name": "Wallet",
+      "iconSymbol": "creditcard.fill",
+      "iconColorHex": "#1C1C1E",
+      "urls": [
+        "shoebox://"
+      ],
+      "bundleId": "com.apple.Passbook",
+      "genres": [
+        "finance"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/dc/f9/8bdcf93b-2d9e-e45f-f2a1-2461ebad923e/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/apple-wallet/id1160481993?uo=4"
+    },
+    "com.apple.clips": {
+      "name": "Clips",
+      "iconSymbol": "video.badge.plus",
+      "iconColorHex": "#FF3B30",
+      "urls": [
+        "clips://",
+        "https://apps.apple.com/app/id1212699939"
+      ],
+      "bundleId": "com.apple.clips",
+      "genres": [
+        "photo-video"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/98/9e/87989e0f-9c04-48a6-8f3e-90a31ab6ab58/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/clips/id1212699939"
+    },
+    "com.apple.ClassicalMusic": {
+      "name": "Apple Music Classical",
+      "iconSymbol": "music.note",
+      "iconColorHex": "#2C2C2E",
+      "urls": [
+        "classical://",
+        "https://apps.apple.com/app/id1598433498"
+      ],
+      "bundleId": "com.apple.ClassicalMusic",
+      "genres": [
+        "music"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/83/af/8a/83af8a90-1e65-191d-658a-7192bd197a7d/5059460112032.jpg/100x100bb.jpg",
+      "trackViewUrl": "https://music.apple.com/us/album/the-lark-ascending/1598432676?i=1598433498&uo=4"
+    },
+    "com.apple.mobilesafari": {
+      "name": "Safari",
+      "iconSymbol": "safari.fill",
+      "iconColorHex": "#1E90FF",
+      "urls": [
+        "x-web-search://",
+        "https://www.apple.com/safari/"
+      ],
+      "bundleId": "com.apple.mobilesafari",
+      "genres": [
+        "utilities"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/4c/cb/234ccbb4-e65a-bb94-f877-3d230743e9e3/safari-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/safari/id1146562112?uo=4"
+    },
+    "com.apple.calculator": {
+      "name": "Calculator",
+      "iconSymbol": "function",
+      "iconColorHex": "#1C1C1E",
+      "urls": [
+        "calc://"
+      ],
+      "bundleId": "com.apple.calculator",
+      "genres": [
+        "utilities"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/2a/0b/0f2a0b1f-77ff-9e66-dfbe-d9b92d3eae16/calculator-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/calculator/id1069511488?uo=4"
+    },
+    "com.apple.Home": {
+      "name": "Home",
+      "iconSymbol": "house.fill",
+      "iconColorHex": "#FF9500",
+      "urls": [
+        "homeapp://"
+      ],
+      "bundleId": "com.apple.Home",
+      "genres": [
+        "lifestyle"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/51/29/76512900-4cc1-8c90-ecf5-d45451ebe35f/home-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/home/id1110145103?uo=4"
+    },
+    "com.apple.findmy": {
+      "name": "Find My",
+      "iconSymbol": "location.fill",
+      "iconColorHex": "#34C759",
+      "urls": [
+        "findmy://"
+      ],
+      "bundleId": "com.apple.findmy",
+      "genres": [
+        "utilities"
+      ],
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/f8/dc/e7f8dca5-9326-58ce-a058-74269c035717/findmy-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/find-my/id1514844621?uo=4"
+    },
+    "com.momenta.agenda.ios": {
+      "name": "Agenda: Notes meets Calendar",
+      "iconSymbol": "note.text",
+      "iconColorHex": "#1A1A2E",
+      "urls": [
+        "agenda://",
+        "https://apps.apple.com/us/app/agenda-notes-meets-calendar/id1370289240?uo=4"
+      ],
+      "bundleId": "com.momenta.agenda.ios",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/6e/d1/066ed14c-5cf7-247c-1943-232cbdafb283/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/agenda-notes-meets-calendar/id1370289240?uo=4",
+      "genres": [
+        "productivity",
+        "business"
+      ]
+    },
+    "com.airmailapp.iphone": {
+      "name": "Airmail for Gmail Outlook Mail",
+      "iconSymbol": "envelope.fill",
+      "iconColorHex": "#4A90E2",
+      "urls": [
+        "airmail://",
+        "https://apps.apple.com/us/app/airmail-for-gmail-outlook-mail/id993160329?uo=4"
+      ],
+      "bundleId": "com.airmailapp.iphone",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/8a/bd/eb8abdba-8fc8-67f9-6d61-8a210ec6a4cc/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/airmail-for-gmail-outlook-mail/id993160329?uo=4",
+      "genres": [
+        "productivity",
+        "business"
+      ]
+    },
+    "co.bitfinder.awair": {
+      "name": "Awair Home - Breathe Easy",
+      "iconSymbol": "wind",
+      "iconColorHex": "#00BFA5",
+      "urls": [
+        "awair://",
+        "https://apps.apple.com/us/app/awair-home-breathe-easy/id1034660006?uo=4"
+      ],
+      "bundleId": "co.bitfinder.awair",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/e0/c5/ace0c5b5-1be8-6dfc-dcf7-ae13480f34e7/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/awair-home-breathe-easy/id1034660006?uo=4",
+      "genres": [
+        "lifestyle",
+        "health-fitness"
+      ]
+    },
+    "com.appsonthemove.borg": {
+      "name": "beorg: To-Do List & Agenda",
+      "iconSymbol": "checklist",
+      "iconColorHex": "#5C6BC0",
+      "urls": [
+        "beorg://",
+        "https://apps.apple.com/us/app/beorg-to-do-list-agenda/id1238649962?uo=4"
+      ],
+      "bundleId": "com.appsonthemove.borg",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/94/98/90949817-8891-8556-fc34-1006a36288ad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/beorg-to-do-list-agenda/id1238649962?uo=4",
+      "genres": [
+        "productivity"
+      ]
+    },
+    "com.bitly.Bitly": {
+      "name": "Bitly: Link Shortener",
+      "iconSymbol": "link",
+      "iconColorHex": "#EE6123",
+      "urls": [
+        "bitly://",
+        "https://apps.apple.com/us/app/bitly-link-shortener/id525106063?uo=4"
+      ],
+      "bundleId": "com.bitly.Bitly",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/d6/ae/83d6aeab-5da4-9c7f-669e-731b70835cf9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/bitly-link-shortener/id525106063?uo=4",
+      "genres": [
+        "productivity",
+        "business"
+      ]
+    },
+    "com.growpixel.blackbox": {
+      "name": "Blackbox",
+      "iconSymbol": "square.fill",
+      "iconColorHex": "#1C1C1C",
+      "urls": [
+        "blackbox://",
+        "https://apps.apple.com/us/app/blackbox/id962969578?uo=4"
+      ],
+      "bundleId": "com.growpixel.blackbox",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/c0/6d/c2c06d69-47b9-0e6a-c70e-b4cadb45ecf4/Default-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/blackbox/id962969578?uo=4",
+      "genres": [
+        "games"
+      ]
+    },
+    "com.metaclassy.bywordios": {
+      "name": "Byword",
+      "iconSymbol": "doc.text.fill",
+      "iconColorHex": "#4A4A4A",
+      "urls": [
+        "byword://",
+        "https://apps.apple.com/us/app/byword/id482063361?uo=4"
+      ],
+      "bundleId": "com.metaclassy.bywordios",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/15/43/8e/15438e15-a371-b251-5236-60780f1b025e/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/byword/id482063361?uo=4",
+      "genres": [
+        "productivity",
+        "utilities"
+      ]
+    },
+    "com.kruegersystems.calca.ios": {
+      "name": "Calca",
+      "iconSymbol": "function",
+      "iconColorHex": "#2D3561",
+      "urls": [
+        "calca://",
+        "https://apps.apple.com/us/app/calca/id635757879?uo=4"
+      ],
+      "bundleId": "com.kruegersystems.calca.ios",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/c8/ee/e0c8eed7-810b-1aa9-304e-37892ecfe35c/CalcaAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/calca/id635757879?uo=4",
+      "genres": [
+        "productivity",
+        "education"
+      ]
+    },
+    "com.bloombuilt.dayone-ios": {
+      "name": "Day One: Daily Journal & Diary",
+      "iconSymbol": "book.closed.fill",
+      "iconColorHex": "#4A90D9",
+      "urls": [
+        "dayone://",
+        "https://apps.apple.com/us/app/day-one-daily-journal-diary/id1044867788?uo=4"
+      ],
+      "bundleId": "com.bloombuilt.dayone-ios",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/9c/f0/459cf043-2420-c087-2a12-4ae7f1cc10c3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/day-one-daily-journal-diary/id1044867788?uo=4",
+      "genres": [
+        "health-fitness",
+        "productivity"
+      ]
+    },
+    "com.devon-technologies.thinktogo4": {
+      "name": "DEVONthink To Go 4",
+      "iconSymbol": "archivebox.fill",
+      "iconColorHex": "#5B5EA6",
+      "urls": [
+        "x-devonthink://",
+        "https://apps.apple.com/us/app/devonthink-to-go-4/id6532619226?uo=4"
+      ],
+      "bundleId": "com.devon-technologies.thinktogo4",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/0b/13/df0b132f-f5d8-293a-052b-b56f8b8d32d5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/devonthink-to-go-4/id6532619226?uo=4",
+      "genres": [
+        "productivity",
+        "education"
+      ]
+    },
+    "cc.dict.dictcc": {
+      "name": "dict.cc Dictionary",
+      "iconSymbol": "character.book.closed.fill",
+      "iconColorHex": "#CC3333",
+      "urls": [
+        "dictcc-x-callback://",
+        "https://apps.apple.com/us/app/dict-cc-dictionary/id327732352?uo=4"
+      ],
+      "bundleId": "cc.dict.dictcc",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/49/dc/d149dc6c-ed28-2732-4728-15e3cf2ff9a0/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/dict-cc-dictionary/id327732352?uo=4",
+      "genres": [
+        "reference",
+        "education"
+      ]
+    },
+    "com.agiletortoise.Drafts5": {
+      "name": "Drafts",
+      "iconSymbol": "square.and.pencil",
+      "iconColorHex": "#3D85C8",
+      "urls": [
+        "drafts5://",
+        "https://apps.apple.com/us/app/drafts/id1236254471?uo=4"
+      ],
+      "bundleId": "com.agiletortoise.Drafts5",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/ea/03/98ea032a-ea40-6dcf-1813-3c78b5cabe59/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/drafts/id1236254471?uo=4",
+      "genres": [
+        "productivity",
+        "business"
+      ]
+    },
+    "com.phocusllp.duemac": {
+      "name": "Due — Reminders & Timers",
+      "iconSymbol": "timer",
+      "iconColorHex": "#FF3B30",
+      "urls": [
+        "due://",
+        "https://apps.apple.com/us/app/due-reminders-timers/id524373870?mt=12&uo=4"
+      ],
+      "bundleId": "com.phocusllp.duemac",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/7e/8a/307e8ab1-7e80-f250-724f-4111bae1b5b8/AppIcon-Default-0-0-85-220-0-0-6-0-2x.png/512x512bb.png",
+      "trackViewUrl": "https://apps.apple.com/us/app/due-reminders-timers/id524373870?mt=12&uo=4",
+      "genres": [
+        "productivity",
+        "utilities"
+      ]
+    },
+    "tsubasa-technologies.Forward-OTP": {
+      "name": "SMS Forwarder: Forward SMS",
+      "iconSymbol": "arrow.forward.circle.fill",
+      "iconColorHex": "#34C759",
+      "urls": [
+        "forwardsms://",
+        "https://apps.apple.com/us/app/sms-forwarder-forward-sms/id6693285061?uo=4"
+      ],
+      "bundleId": "tsubasa-technologies.Forward-OTP",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/e7/f9/f2e7f96a-e6c3-865b-dd61-079591f73ee9/default-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/sms-forwarder-forward-sms/id6693285061?uo=4",
+      "genres": [
+        "business",
+        "productivity"
+      ]
+    },
+    "com.miHoYo.GenshinImpact": {
+      "name": "Genshin Impact",
+      "iconSymbol": "gamecontroller.fill",
+      "iconColorHex": "#4A90A4",
+      "urls": [
+        "yuanshengame://",
+        "https://apps.apple.com/us/app/genshin-impact/id1517783697?uo=4"
+      ],
+      "bundleId": "com.miHoYo.GenshinImpact",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/a4/6f/58a46f7f-3244-effe-1f45-d07360d5cd6c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/genshin-impact/id1517783697?uo=4",
+      "genres": [
+        "games"
+      ]
+    },
+    "build.bru.Gladys": {
+      "name": "Gladys",
+      "iconSymbol": "tray.2.fill",
+      "iconColorHex": "#7B68EE",
+      "urls": [
+        "gladys://",
+        "https://apps.apple.com/us/app/gladys/id1257526927?uo=4"
+      ],
+      "bundleId": "build.bru.Gladys",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/83/b2/c683b2e1-7d72-2cb1-f578-0abceb1c8fb7/AppIcon-iOS-0-1x_U007epad-0-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/gladys/id1257526927?uo=4",
+      "genres": [
+        "productivity",
+        "utilities"
+      ]
+    },
+    "de.icab.iCabMobile": {
+      "name": "iCab Mobile (Web Browser)",
+      "iconSymbol": "globe",
+      "iconColorHex": "#1565C0",
+      "urls": [
+        "x-icabmobile://",
+        "https://apps.apple.com/us/app/icab-mobile-web-browser/id308111628?uo=4"
+      ],
+      "bundleId": "de.icab.iCabMobile",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/53/ee/3b53ee6f-21dc-fe91-59ed-29b8b60a7c5d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/icab-mobile-web-browser/id308111628?uo=4",
+      "genres": [
+        "utilities",
+        "productivity"
+      ]
+    },
+    "com.firecore.infuse": {
+      "name": "Infuse",
+      "iconSymbol": "play.tv.fill",
+      "iconColorHex": "#E53935",
+      "urls": [
+        "infuse://",
+        "https://apps.apple.com/us/app/infuse/id1136220934?uo=4"
+      ],
+      "bundleId": "com.firecore.infuse",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/15/1c/be151cfd-07e5-d26d-2488-2f95c3468beb/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/infuse/id1136220934?uo=4",
+      "genres": [
+        "entertainment",
+        "photo-video"
+      ]
+    },
+    "com.cromulentlabs.Launcher": {
+      "name": "Launcher with Multiple Widgets",
+      "iconSymbol": "rocket.fill",
+      "iconColorHex": "#FF6D00",
+      "urls": [
+        "launcher://",
+        "https://apps.apple.com/us/app/launcher-with-multiple-widgets/id905099592?uo=4"
+      ],
+      "bundleId": "com.cromulentlabs.Launcher",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/2a/a2/ed2aa29b-1f46-2c45-6129-c8c2fbcce75d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/launcher-with-multiple-widgets/id905099592?uo=4",
+      "genres": [
+        "productivity",
+        "utilities"
+      ]
+    },
+    "com.lovense.wear": {
+      "name": "Lovense Remote",
+      "iconSymbol": "heart.fill",
+      "iconColorHex": "#FF2D55",
+      "urls": [
+        "wear://",
+        "https://apps.apple.com/us/app/lovense-remote/id1027312824?uo=4"
+      ],
+      "bundleId": "com.lovense.wear",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/65/c9/5d65c903-97ae-b888-e33b-562136a9d939/AppIcon-3-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/lovense-remote/id1027312824?uo=4",
+      "genres": [
+        "health-fitness"
+      ]
+    },
+    "ru.persapps.FastTimer": {
+      "name": "MultiTimer: Multiple timers",
+      "iconSymbol": "timer",
+      "iconColorHex": "#FF9500",
+      "urls": [
+        "multitimer://",
+        "https://apps.apple.com/us/app/multitimer-multiple-timers/id973421278?uo=4"
+      ],
+      "bundleId": "ru.persapps.FastTimer",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/79/79/c1797928-d74f-2411-5fce-ae4a6361b75f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/multitimer-multiple-timers/id973421278?uo=4",
+      "genres": [
+        "utilities",
+        "productivity"
+      ]
+    },
+    "com.myliftmaster.myq": {
+      "name": "myQ Garage & Access Control",
+      "iconSymbol": "house.fill",
+      "iconColorHex": "#00529B",
+      "urls": [
+        "myliftmaster://",
+        "https://apps.apple.com/us/app/myq-garage-access-control/id456282559?uo=4"
+      ],
+      "bundleId": "com.myliftmaster.myq",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/2c/13/652c1369-f7fa-6d95-280c-f5583274039a/AppIcon-LiftMaster-0-1x_U007ephone-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/myq-garage-access-control/id456282559?uo=4",
+      "genres": [
+        "lifestyle",
+        "utilities"
+      ]
+    },
+    "com.ngocluu.onewriter": {
+      "name": "1Writer - Markdown Text Editor",
+      "iconSymbol": "pencil.and.outline",
+      "iconColorHex": "#3A3A3A",
+      "urls": [
+        "onewriter://",
+        "https://apps.apple.com/us/app/1writer-markdown-text-editor/id680469088?uo=4"
+      ],
+      "bundleId": "com.ngocluu.onewriter",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/d9/d0/cfd9d0cd-e95e-bf82-e3cd-ed525ce8efbe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/1writer-markdown-text-editor/id680469088?uo=4",
+      "genres": [
+        "productivity",
+        "utilities"
+      ]
+    },
+    "com.tijo.opener.Opener": {
+      "name": "Opener ‒ open links in apps",
+      "iconSymbol": "arrow.up.forward.app.fill",
+      "iconColorHex": "#FF6B35",
+      "urls": [
+        "opener://",
+        "https://apps.apple.com/us/app/opener-open-links-in-apps/id989565871?uo=4"
+      ],
+      "bundleId": "com.tijo.opener.Opener",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/20/46/f42046f2-474a-c50a-7213-472e51be26ff/AppIcon-0-0-1x_U007epad-0-5-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/opener-open-links-in-apps/id989565871?uo=4",
+      "genres": [
+        "utilities",
+        "productivity"
+      ]
+    },
+    "com.creaceed.iprizmogo": {
+      "name": "Prizmo Go › Scan Text + OCR",
+      "iconSymbol": "camera.viewfinder",
+      "iconColorHex": "#6200EE",
+      "urls": [
+        "prizmo://",
+        "https://apps.apple.com/us/app/prizmo-go-scan-text-ocr/id1183367390?uo=4"
+      ],
+      "bundleId": "com.creaceed.iprizmogo",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/cc/0e/23cc0e0b-38d0-238b-c429-ab667771850f/prizmogo-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/prizmo-go-scan-text-ocr/id1183367390?uo=4",
+      "genres": [
+        "utilities",
+        "productivity"
+      ]
+    },
+    "ch.marcela.ada.Pyto": {
+      "name": "Pyto IDE",
+      "iconSymbol": "chevron.left.forwardslash.chevron.right",
+      "iconColorHex": "#306998",
+      "urls": [
+        "pyto://",
+        "https://apps.apple.com/us/app/pyto-ide/id1436650069?uo=4"
+      ],
+      "bundleId": "ch.marcela.ada.Pyto",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/fb/18/35fb18d1-6367-1c1c-2b2f-4f5eb068a5e5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/pyto-ide/id1436650069?uo=4",
+      "genres": [
+        "developer-tools",
+        "productivity"
+      ]
+    },
+    "dk.simonbs.Scriptable": {
+      "name": "Scriptable",
+      "iconSymbol": "applescript.fill",
+      "iconColorHex": "#2F80ED",
+      "urls": [
+        "scriptable://",
+        "https://apps.apple.com/us/app/scriptable/id1405459188?uo=4"
+      ],
+      "bundleId": "dk.simonbs.Scriptable",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/a2/fa/1aa2fa5f-2440-f3d1-7785-2e6f1b82984a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/scriptable/id1405459188?uo=4",
+      "genres": [
+        "developer-tools"
+      ]
+    },
+    "com.sapient-pair.shopi": {
+      "name": "Shopi - Shared Shopping Lists",
+      "iconSymbol": "cart.fill",
+      "iconColorHex": "#5CB85C",
+      "urls": [
+        "shopi://",
+        "https://apps.apple.com/us/app/shopi-shared-shopping-lists/id626076360?uo=4"
+      ],
+      "bundleId": "com.sapient-pair.shopi",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/39/76/17/39761701-6adc-ef23-d270-2de22ef4fe71/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/shopi-shared-shopping-lists/id626076360?uo=4",
+      "genres": [
+        "productivity"
+      ]
+    },
+    "com.literautas.StoryPlanner": {
+      "name": "Story Planner for Writers",
+      "iconSymbol": "book.fill",
+      "iconColorHex": "#8E44AD",
+      "urls": [
+        "storyplanner://",
+        "https://apps.apple.com/us/app/story-planner-for-writers/id860024390?uo=4"
+      ],
+      "bundleId": "com.literautas.StoryPlanner",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/9c/d7/849cd7e9-1504-3e55-8ff2-5dfc18684a59/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/story-planner-for-writers/id860024390?uo=4",
+      "genres": [
+        "productivity",
+        "lifestyle"
+      ]
+    },
+    "com.agiletortoise.Tally2": {
+      "name": "Tally • Quick Counter",
+      "iconSymbol": "chart.bar.fill",
+      "iconColorHex": "#FF3B30",
+      "urls": [
+        "tally2://",
+        "https://apps.apple.com/us/app/tally-quick-counter/id957912407?uo=4"
+      ],
+      "bundleId": "com.agiletortoise.Tally2",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/7a/9f/2b7a9fdd-ac04-5321-67ba-39fd5632e559/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/tally-quick-counter/id957912407?uo=4",
+      "genres": [
+        "utilities",
+        "productivity"
+      ]
+    },
+    "com.agiletortoise.Terminology3": {
+      "name": "Terminology",
+      "iconSymbol": "character.magnify",
+      "iconColorHex": "#4A90A4",
+      "urls": [
+        "terminology://",
+        "https://apps.apple.com/us/app/terminology/id687798859?uo=4"
+      ],
+      "bundleId": "com.agiletortoise.Terminology3",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/1c/74/031c740a-b344-8291-2b1d-99215c197e37/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/terminology/id687798859?uo=4",
+      "genres": [
+        "reference",
+        "education"
+      ]
+    },
+    "tsubasa-technologies.Text-Message-Export": {
+      "name": "Text Message Export: TextPort",
+      "iconSymbol": "bubble.left.and.bubble.right.fill",
+      "iconColorHex": "#007AFF",
+      "urls": [
+        "textport://",
+        "https://apps.apple.com/us/app/text-message-export-textport/id6745645676?uo=4"
+      ],
+      "bundleId": "tsubasa-technologies.Text-Message-Export",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/8a/56/408a5651-6f7b-8e73-ebb4-33035f662739/TextPort_Icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/text-message-export-textport/id6745645676?uo=4",
+      "genres": [
+        "utilities",
+        "productivity"
+      ]
+    },
+    "com.moleskine.timeline": {
+      "name": "Timepage: Calendar Planner",
+      "iconSymbol": "calendar.badge.clock",
+      "iconColorHex": "#1B1B1B",
+      "urls": [
+        "timepage://",
+        "https://apps.apple.com/us/app/timepage-calendar-planner/id989178902?uo=4"
+      ],
+      "bundleId": "com.moleskine.timeline",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/50/d0/4550d09b-e66c-40fd-1e41-f12186d42fd2/Timepage_Icon-0-1x_U007epad-0-1-0-0-sRGB-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/timepage-calendar-planner/id989178902?uo=4",
+      "genres": [
+        "productivity",
+        "business"
+      ]
+    },
+    "com.guidedways.2Do": {
+      "name": "2Do - Todo List, Tasks & Notes",
+      "iconSymbol": "checkmark.square.fill",
+      "iconColorHex": "#339966",
+      "urls": [
+        "twodo://",
+        "https://apps.apple.com/us/app/2do-todo-list-tasks-notes/id303656546?uo=4"
+      ],
+      "bundleId": "com.guidedways.2Do",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/22/90/f22290c1-7a5f-d328-cb04-a74c2ae2e31a/Icon2Do-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/2do-todo-list-tasks-notes/id303656546?uo=4",
+      "genres": [
+        "productivity",
+        "utilities"
+      ]
+    },
+    "com.ulyssesapp.ios": {
+      "name": "Ulysses Mobile",
+      "iconSymbol": "u.square.fill",
+      "iconColorHex": "#4A90D9",
+      "urls": [
+        "ulysses://",
+        "https://apps.apple.com/us/app/ulysses-mobile/id1225571038?uo=4"
+      ],
+      "bundleId": "com.ulyssesapp.ios",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/72/ff/e972ff34-c08a-d99f-a538-8cf820498cb8/AppIcon-WhiteOnBlack-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/ulysses-mobile/id1225571038?uo=4",
+      "genres": [
+        "productivity",
+        "lifestyle"
+      ]
+    },
+    "com.appcubby.launchpro": {
+      "name": "Launch Center Pro - Icon Maker",
+      "iconSymbol": "rocket.fill",
+      "iconColorHex": "#FF6600",
+      "urls": [
+        "launchpro://",
+        "https://apps.apple.com/us/app/launch-center-pro-icon-maker/id532016360?uo=4"
+      ],
+      "bundleId": "com.appcubby.launchpro",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/99/b2/2e/99b22e8f-f28f-8e83-adc9-fb3e0a9b5894/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/launch-center-pro-icon-maker/id532016360?uo=4",
+      "genres": [
+        "productivity",
+        "utilities"
+      ]
+    },
+    "com.waterminder.waterminder": {
+      "name": "Water Tracker by WaterMinder®",
+      "iconSymbol": "drop.fill",
+      "iconColorHex": "#007AFF",
+      "urls": [
+        "waterminder://",
+        "https://apps.apple.com/us/app/water-tracker-by-waterminder/id653031147?uo=4"
+      ],
+      "bundleId": "com.waterminder.waterminder",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/91/70/3491709e-cd93-8a98-12d9-efe46ee52e17/AppIcon-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/water-tracker-by-waterminder/id653031147?uo=4",
+      "genres": [
+        "health-fitness",
+        "utilities"
+      ]
+    },
+    "com.omz-software.Editorial": {
+      "name": "Editorial",
+      "iconSymbol": "doc.text.below.ecg.fill",
+      "iconColorHex": "#3A7CA5",
+      "urls": [
+        "editorial://",
+        "https://apps.apple.com/us/app/editorial/id673907758?uo=4"
+      ],
+      "bundleId": "com.omz-software.Editorial",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ef/59/5f/ef595fc4-1fda-8a3d-1602-62c64fa333ac/AppIcon-1x_U007emarketing-85-220-0-3.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/editorial/id673907758?uo=4",
+      "genres": [
+        "productivity"
+      ]
+    },
+    "com.pleco.chinesesystem": {
+      "name": "Pleco Chinese Dictionary",
+      "iconSymbol": "character.book.closed.fill",
+      "iconColorHex": "#D32F2F",
+      "urls": [
+        "pleco://",
+        "https://apps.apple.com/us/app/pleco-chinese-dictionary/id341922306?uo=4"
+      ],
+      "bundleId": "com.pleco.chinesesystem",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/04/45/98044514-32aa-b084-9974-34cf8bdea42e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/pleco-chinese-dictionary/id341922306?uo=4",
+      "genres": [
+        "reference",
+        "education"
+      ]
+    },
+    "com.appigo.todonew": {
+      "name": "Todo - Task List Organizer",
+      "iconSymbol": "checkmark.circle.fill",
+      "iconColorHex": "#4CAF50",
+      "urls": [
+        "td://",
+        "https://apps.apple.com/us/app/todo-task-list-organizer/id708423616?uo=4"
+      ],
+      "bundleId": "com.appigo.todonew",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/55/0b/79550b60-62ec-8361-3c81-59770257a716/TodoAppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/todo-task-list-organizer/id708423616?uo=4",
+      "genres": [
+        "productivity",
+        "business"
+      ]
+    },
+    "com.izettle.app": {
+      "name": "PayPal POS (ex Zettle)",
+      "iconSymbol": "creditcard.fill",
+      "iconColorHex": "#009BDE",
+      "urls": [
+        "izettle://",
+        "https://apps.apple.com/us/app/paypal-pos-ex-zettle/id447785763?uo=4"
+      ],
+      "bundleId": "com.izettle.app",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/be/92/63be92a4-b1af-199f-a5d5-84de00540bc1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/paypal-pos-ex-zettle/id447785763?uo=4",
+      "genres": [
+        "business",
+        "finance"
+      ]
+    },
+    "com.readdle.Scanner": {
+      "name": "Scanner Pro・Scan PDF Documents",
+      "iconSymbol": "doc.viewfinder.fill",
+      "iconColorHex": "#007AFF",
+      "urls": [
+        "pro-pdfscanner://",
+        "https://apps.apple.com/us/app/scanner-pro-scan-pdf-documents/id333710667?uo=4"
+      ],
+      "bundleId": "com.readdle.Scanner",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/90/9e/e2909e46-4414-7cd8-cffe-c378c0b29f4f/ScannerPro-NoFlag-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/scanner-pro-scan-pdf-documents/id333710667?uo=4",
+      "genres": [
+        "business",
+        "productivity"
+      ]
+    }
+  },
+  "defaultFolders": [
+    {
+      "name": "Popular Apps",
+      "apps": [
+        "com.atebits.Tweetie2",
+        "com.burbn.instagram",
+        "net.whatsapp.WhatsApp",
+        "ph.telegra.Telegraph",
+        "com.hammerandchisel.discord",
+        "com.spotify.client",
+        "notion.id",
+        "com.tinyspeck.chatlyio",
+        "com.zhiliaoapp.musically",
+        "com.google.ios.youtube",
+        "com.netflix.Netflix",
+        "com.facebook.Facebook"
+      ],
+      "backgroundColorHex": "#E8E0FF"
+    },
+    {
+      "name": "Social",
+      "apps": [
+        "com.atebits.Tweetie2",
+        "com.burbn.instagram",
+        "net.whatsapp.WhatsApp",
+        "ph.telegra.Telegraph",
+        "com.facebook.Facebook",
+        "com.zhiliaoapp.musically",
+        "com.burbn.barcelona",
+        "xyz.blueskyweb.app"
+      ],
+      "backgroundColorHex": "#FFE0E0"
+    },
+    {
+      "name": "Productivity",
+      "apps": [
+        "notion.id",
+        "com.tinyspeck.chatlyio",
+        "com.figma.FigmaMirror",
+        "com.github.stormbreaker.prod",
+        "com.asana.Asana",
+        "com.google.Docs",
+        "calendar://",
+        "com.google.Drive"
+      ],
+      "backgroundColorHex": "#E0F0FF"
+    },
+    {
+      "name": "Finance",
+      "apps": [
+        "com.bbva.BBVAMovil",
+        "com.revolut.revolut",
+        "com.transferwise.Transferwise",
+        "com.yourcompany.PPClient",
+        "com.EdenredUsaBenefits"
+      ],
+      "backgroundColorHex": "#E0FFE0"
+    },
+    {
+      "name": "Entertainment",
+      "apps": [
+        "com.spotify.client",
+        "com.google.ios.youtube",
+        "com.netflix.Netflix",
+        "tv.twitch",
+        "com.apple.Music"
+      ],
+      "backgroundColorHex": "#FFE0FF"
+    }
+  ]
+}
