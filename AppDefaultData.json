@@ -2064,7 +2064,11 @@
       ],
       "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/ca/89/80ca89b7-07aa-29b8-deb6-07544ffd1531/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
       "trackViewUrl": "https://apps.apple.com/us/app/clickup-tasks-chat-docs-ai/id1535098836?uo=4",
-      "bundleId": "com.clickup.mobile"
+      "bundleId": "com.clickup.mobile",
+      "genres": [
+        "business",
+        "productivity"
+      ]
     },
     "jira://": {
       "name": "Jira",
