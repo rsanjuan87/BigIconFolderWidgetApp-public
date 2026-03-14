@@ -5157,18 +5157,13 @@
     {
       "name": "Games",
       "apps": [
-        "com.roblox.robloxmobile",
         "com.supercell.magic",
         "com.supercell.laser",
-        "com.midasplayer.apps.candycrushsaga",
         "com.mojang.minecraftpe",
         "com.nianticlabs.pokemongo",
         "com.epicgames.FortniteGame",
         "com.activision.callofduty.shooter",
-        "com.kiloo.subwaysurfers",
-        "com.innersloth.amongus",
-        "com.miHoYo.GenshinImpact",
-        "com.chess.iphone"
+        "com.innersloth.amongus"
       ],
       "backgroundColorHex": "#E0FFE8"
     }
