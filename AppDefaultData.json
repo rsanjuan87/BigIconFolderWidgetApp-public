@@ -2048,7 +2048,11 @@
       ],
       "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/23/ea/fb23ea5b-d992-a4ec-462f-95bd4a6befc8/AppIcon-Monday-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "trackViewUrl": "https://apps.apple.com/us/app/monday-com-work-platform/id1290128888?uo=4",
-      "bundleId": "com.monday.monday"
+      "bundleId": "com.monday.monday",
+      "genres": [
+        "business",
+        "productivity"
+      ]
     },
     "clicked://": {
       "name": "ClickUp",
@@ -2072,7 +2076,11 @@
       ],
       "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/01/29/480129a0-0283-ec71-2882-febb97ff50d0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "trackViewUrl": "https://apps.apple.com/us/app/jira-cloud-by-atlassian/id1006972087?uo=4",
-      "bundleId": "com.atlassian.jira.app"
+      "bundleId": "com.atlassian.jira.app",
+      "genres": [
+        "business",
+        "productivity"
+      ]
     },
     "confluence://": {
       "name": "Confluence",
@@ -2084,7 +2092,11 @@
       ],
       "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/e2/0b/e1e20beb-85d3-329e-fb1f-cf8b72141ad9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "trackViewUrl": "https://apps.apple.com/us/app/confluence-cloud/id1006971684?uo=4",
-      "bundleId": "com.atlassian.confluence.app"
+      "bundleId": "com.atlassian.confluence.app",
+      "genres": [
+        "business",
+        "productivity"
+      ]
     },
     "trello://": {
       "name": "Trello",
@@ -2096,7 +2108,11 @@
       ],
       "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/56/bc/7c56bc0e-8bed-9022-bae4-003ac33f4982/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "trackViewUrl": "https://apps.apple.com/us/app/trello-organize-anything/id461504587?uo=4",
-      "bundleId": "com.fogcreek.trello"
+      "bundleId": "com.fogcreek.trello",
+      "genres": [
+        "business",
+        "productivity"
+      ]
     },
     "Linear-App://": {
       "name": "Linear",
@@ -2108,7 +2124,11 @@
       ],
       "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/45/38/81453861-74f1-eff4-8e1d-6a4ff255d870/Linear-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/100x100bb.jpg",
       "trackViewUrl": "https://apps.apple.com/us/app/linear-mobile/id1645587184?uo=4",
-      "bundleId": "com.linear.ios"
+      "bundleId": "com.linear.ios",
+      "genres": [
+        "business",
+        "productivity"
+      ]
     },
     "insta-share://": {
       "name": "Instacart",
@@ -2120,7 +2140,11 @@
       ],
       "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/02/ea/e102eab8-29ff-7ea2-cb6e-9e013c639f83/AppIcon-0-0-1x_U007emarketing-0-8-0-0-P3-85-220.png/100x100bb.jpg",
       "trackViewUrl": "https://apps.apple.com/us/app/instacart-groceries-food/id545599256?uo=4",
-      "bundleId": "com.instacart"
+      "bundleId": "com.instacart",
+      "genres": [
+        "shopping",
+        "food-drink"
+      ]
     },
     "whatsapp-business://": {
       "name": "WhatsApp Business",
@@ -2132,7 +2156,11 @@
       ],
       "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/35/e3/5635e36d-5725-5206-448b-c95355067e6a/AppIconSMB-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg",
       "trackViewUrl": "https://apps.apple.com/us/app/whatsapp-business/id1386412985?uo=4",
-      "bundleId": "net.whatsapp.WhatsAppSMB"
+      "bundleId": "net.whatsapp.WhatsAppSMB",
+      "genres": [
+        "business",
+        "social-networking"
+      ]
     },
     "telegram-x://": {
       "name": "Telegram X",
@@ -2144,7 +2172,11 @@
       ],
       "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/4f/f1/114ff141-5fc5-24f4-c548-afc42d4d8283/Telegram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "trackViewUrl": "https://apps.apple.com/us/app/telegram-messenger/id686449807?uo=4",
-      "bundleId": "ph.telegra.Telegraph"
+      "bundleId": "ph.telegra.Telegraph",
+      "genres": [
+        "social-networking",
+        "productivity"
+      ]
     },
     "zendesk://": {
       "name": "Zendesk",
@@ -2156,7 +2188,11 @@
       ],
       "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/fe/f7/22fef799-3e4c-4c00-5ceb-f64b4894420d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "trackViewUrl": "https://apps.apple.com/us/app/zendesk-support/id1174276185?uo=4",
-      "bundleId": "com.zendesk.agent.appstore"
+      "bundleId": "com.zendesk.agent.appstore",
+      "genres": [
+        "business",
+        "productivity"
+      ]
     },
     "io.intercom.ios": {
       "name": "Intercom",
