@@ -4822,6 +4822,268 @@
         "photo-video",
         "utilities"
       ]
+    },
+    "com.supercell.magic": {
+      "name": "Clash of Clans",
+      "iconSymbol": "shield.fill",
+      "iconColorHex": "#0088CC",
+      "urls": [
+        "clashofclans://"
+      ],
+      "bundleId": "com.supercell.magic",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/8b/1c/068b1c5d-f74b-1d8b-f1db-b233ca4086d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/clash-of-clans/id529479190?uo=4",
+      "genres": [
+        "games",
+        "entertainment"
+      ]
+    },
+    "com.supercell.laser": {
+      "name": "Brawl Stars",
+      "iconSymbol": "star.fill",
+      "iconColorHex": "#FF6B00",
+      "urls": [
+        "brawlstars://"
+      ],
+      "bundleId": "com.supercell.laser",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/32/5c/70325cef-4285-1e25-d122-6623bc425e61/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/brawl-stars/id1229016807?uo=4",
+      "genres": [
+        "games",
+        "entertainment"
+      ]
+    },
+    "com.midasplayer.apps.candycrushsaga": {
+      "name": "Candy Crush Saga",
+      "iconSymbol": "heart.fill",
+      "iconColorHex": "#FF2D55",
+      "urls": [
+        "candycrush://"
+      ],
+      "bundleId": "com.midasplayer.apps.candycrushsaga",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/8c/80/3d8c80f1-43b4-b7d7-c365-c60742adbedf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/candy-crush-saga/id553834731?uo=4",
+      "genres": [
+        "games",
+        "entertainment"
+      ]
+    },
+    "com.roblox.robloxmobile": {
+      "name": "Roblox",
+      "iconSymbol": "cube.fill",
+      "iconColorHex": "#FF0000",
+      "urls": [
+        "roblox://"
+      ],
+      "bundleId": "com.roblox.robloxmobile",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/83/3d/84833d8c-fd97-2751-6f09-4fff16c86a5a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/roblox/id431946152?uo=4",
+      "genres": [
+        "games",
+        "entertainment"
+      ]
+    },
+    "com.mojang.minecraftpe": {
+      "name": "Minecraft: Dream it, Build it!",
+      "iconSymbol": "square.grid.3x3.fill",
+      "iconColorHex": "#8BC34A",
+      "urls": [
+        "minecraft://"
+      ],
+      "bundleId": "com.mojang.minecraftpe",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/ee/ac/28eeaccb-af5b-ec8a-3091-a76991a65264/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/minecraft-dream-it-build-it/id479516143?uo=4",
+      "genres": [
+        "games"
+      ]
+    },
+    "com.epicgames.FortniteGame": {
+      "name": "Fortnite",
+      "iconSymbol": "bolt.fill",
+      "iconColorHex": "#9B59B6",
+      "urls": [
+        "fortnite://"
+      ],
+      "bundleId": "com.epicgames.FortniteGame",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/e1/97/05e19780-c2ed-1c8a-d940-ac2503f5d8d9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/fortnite/id6483539426?uo=4",
+      "genres": [
+        "games",
+        "entertainment"
+      ]
+    },
+    "com.activision.callofduty.shooter": {
+      "name": "Call of Duty®: Mobile",
+      "iconSymbol": "scope",
+      "iconColorHex": "#2C2C2C",
+      "urls": [
+        "callofduty://"
+      ],
+      "bundleId": "com.activision.callofduty.shooter",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/f6/aa/73f6aa64-d3a4-4448-d36d-25b41582ec06/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/call-of-duty-mobile/id1287282214?uo=4",
+      "genres": [
+        "games"
+      ]
+    },
+    "com.tencent.ig": {
+      "name": "PUBG MOBILE",
+      "iconSymbol": "scope",
+      "iconColorHex": "#E67E22",
+      "urls": [
+        "pubgmobile://"
+      ],
+      "bundleId": "com.tencent.ig",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/13/c2/1013c2bb-c728-f6e0-073e-54879d5820e9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/pubg-mobile/id1330123889?uo=4",
+      "genres": [
+        "games"
+      ]
+    },
+    "com.innersloth.amongus": {
+      "name": "Among Us!",
+      "iconSymbol": "figure.walk",
+      "iconColorHex": "#C0392B",
+      "urls": [
+        "amongus://"
+      ],
+      "bundleId": "com.innersloth.amongus",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/8f/fb/6c8ffb21-53c4-1fae-7095-d3224c584a1b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/among-us/id1351168404?uo=4",
+      "genres": [
+        "games"
+      ]
+    },
+    "com.nianticlabs.pokemongo": {
+      "name": "Pokémon GO",
+      "iconSymbol": "location.fill",
+      "iconColorHex": "#FFCB05",
+      "urls": [
+        "pokemongo://"
+      ],
+      "bundleId": "com.nianticlabs.pokemongo",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/dd/fc/c6ddfca4-545f-c0ed-d6ca-42d09a6c3428/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/pok%C3%A9mon-go/id1094591345?uo=4",
+      "genres": [
+        "games"
+      ]
+    },
+    "com.rovio.baba": {
+      "name": "Angry Birds 2",
+      "iconSymbol": "bird.fill",
+      "iconColorHex": "#FF4500",
+      "urls": [
+        "angrybirds://"
+      ],
+      "bundleId": "com.rovio.baba",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/bf/52/95bf5231-8988-1aed-34c8-6ca0fdd89942/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/angry-birds-2/id880047117?uo=4",
+      "genres": [
+        "games"
+      ]
+    },
+    "com.ea.ios.fifamobile": {
+      "name": "EA SPORTS FC™ Mobile Soccer 26",
+      "iconSymbol": "soccerball",
+      "iconColorHex": "#0D47A1",
+      "urls": [
+        "easportsfcmobile://"
+      ],
+      "bundleId": "com.ea.ios.fifamobile",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/f6/c1/1ef6c173-2e6f-a89a-f17f-79c750497fcf/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/ea-sports-fc-mobile-soccer-26/id1094930513?uo=4",
+      "genres": [
+        "games"
+      ]
+    },
+    "com.miniclip.8ballpoolmult": {
+      "name": "8 Ball Pool™",
+      "iconSymbol": "circle.fill",
+      "iconColorHex": "#1A237E",
+      "urls": [
+        "8ballpool://"
+      ],
+      "bundleId": "com.miniclip.8ballpoolmult",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/48/66/9f48669b-06b9-011d-b320-d71e2ed49c3c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/8-ball-pool/id543186831?uo=4",
+      "genres": [
+        "games",
+        "entertainment"
+      ]
+    },
+    "com.halfbrick.fruitninjax": {
+      "name": "Fruit Ninja 2",
+      "iconSymbol": "scissors",
+      "iconColorHex": "#FF6F00",
+      "urls": [
+        "fruitninja://"
+      ],
+      "bundleId": "com.halfbrick.fruitninjax",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/22/81/20228164-9b30-c8af-4a23-118e068d4f0e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/fruit-ninja-2/id1330898775?uo=4",
+      "genres": [
+        "games"
+      ]
+    },
+    "com.kiloo.subwaysurfers": {
+      "name": "Subway Surfers",
+      "iconSymbol": "train.side.front.car",
+      "iconColorHex": "#FF9800",
+      "urls": [
+        "subwaysurfers://"
+      ],
+      "bundleId": "com.kiloo.subwaysurfers",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/ac/4e/98ac4ed7-7da4-c5ae-8bea-c2adc70b7960/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/subway-surfers/id512939461?uo=4",
+      "genres": [
+        "games",
+        "entertainment"
+      ]
+    },
+    "com.playrix.gardenscapes-sweethome": {
+      "name": "Homescapes: Puzzle & Design",
+      "iconSymbol": "leaf.fill",
+      "iconColorHex": "#4CAF50",
+      "urls": [
+        "homescapes://"
+      ],
+      "bundleId": "com.playrix.gardenscapes-sweethome",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/03/54/b203548d-0adc-427a-cd0b-92717bc03c2b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/homescapes-puzzle-design/id1195621598?uo=4",
+      "genres": [
+        "games",
+        "entertainment"
+      ]
+    },
+    "com.gameloft.asphalt9": {
+      "name": "Asphalt Legends - Racing Game",
+      "iconSymbol": "car.fill",
+      "iconColorHex": "#D32F2F",
+      "urls": [
+        "asphalt9://"
+      ],
+      "bundleId": "com.gameloft.asphalt9",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/5b/10/b45b1013-de40-8171-4421-780175c665bd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/asphalt-legends-racing-game/id805603214?uo=4",
+      "genres": [
+        "games",
+        "entertainment"
+      ]
+    },
+    "com.chess.iphone": {
+      "name": "Chess - Play & Learn Online",
+      "iconSymbol": "checkerboard.rectangle",
+      "iconColorHex": "#795548",
+      "urls": [
+        "chess://"
+      ],
+      "bundleId": "com.chess.iphone",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/7e/cd/327ecde0-cf5b-c787-eb70-f781ee457c22/AppIcon-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "trackViewUrl": "https://apps.apple.com/us/app/chess-play-learn-online/id329218549?uo=4",
+      "genres": [
+        "games",
+        "entertainment"
+      ]
     }
   },
   "defaultFolders": [
@@ -4891,6 +5153,24 @@
         "com.apple.Music"
       ],
       "backgroundColorHex": "#FFE0FF"
+    },
+    {
+      "name": "Games",
+      "apps": [
+        "com.roblox.robloxmobile",
+        "com.supercell.magic",
+        "com.supercell.laser",
+        "com.midasplayer.apps.candycrushsaga",
+        "com.mojang.minecraftpe",
+        "com.nianticlabs.pokemongo",
+        "com.epicgames.FortniteGame",
+        "com.activision.callofduty.shooter",
+        "com.kiloo.subwaysurfers",
+        "com.innersloth.amongus",
+        "com.miHoYo.GenshinImpact",
+        "com.chess.iphone"
+      ],
+      "backgroundColorHex": "#E0FFE8"
     }
   ]
 }
