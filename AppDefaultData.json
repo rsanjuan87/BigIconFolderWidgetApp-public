@@ -5173,17 +5173,6 @@
       "backgroundColorHex": "#E0F0FF"
     },
     {
-      "name": "Finance",
-      "apps": [
-        "com.bbva.BBVAMovil",
-        "com.revolut.revolut",
-        "com.transferwise.Transferwise",
-        "com.yourcompany.PPClient",
-        "com.EdenredUsaBenefits"
-      ],
-      "backgroundColorHex": "#E0FFE0"
-    },
-    {
       "name": "Entertainment",
       "apps": [
         "com.spotify.client",
@@ -5206,6 +5195,37 @@
         "com.innersloth.amongus"
       ],
       "backgroundColorHex": "#E0FFE8"
+    },
+    {
+      "name": "Finance",
+      "apps": [
+        "com.bbva.BBVAMovil",
+        "com.revolut.revolut",
+        "com.transferwise.Transferwise",
+        "com.yourcompany.PPClient",
+        "com.EdenredUsaBenefits"
+      ],
+      "backgroundColorHex": "#E0FFE0"
+    },
+    {
+      "name": "Travel",
+      "apps": [
+        "com.booking.Booking",
+        "com.airbnb.app",
+        "com.ryanair.iphone",
+        "com.melia.meliaapp"
+      ],
+      "backgroundColorHex": "#E0F8FF"
+    },
+    {
+      "name": "Utilities",
+      "apps": [
+        "com.apple.mobiletimer",
+        "com.twofas.org",
+        "com.8bit.bitwarden",
+        "app.alextran.immich"
+      ],
+      "backgroundColorHex": "#F0E0FF"
     }
   ]
 }
